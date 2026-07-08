@@ -28,6 +28,19 @@
 </div>
 
 ---
+## Live Demos
+
+A single-page BI dashboard analyzing public WiFi subscriber behavior, churn risk, and revenue leakage for Q2 2026 — built in Power BI, Tableau, and Looker Studio from the same dataset.
+
+
+
+| Platform | Link |
+|---|---|
+| Power BI | See `/Dashboard` folder (`.pbix` file) |
+| Tableau Public | [Q2 2026 WiFi Churn & Retention Radar](https://public.tableau.com/app/profile/ajit.jha/viz/Q22026WiFiChurnRetentionRadar/Dashboard1?publish=yes) |
+| Looker Studio | [Live Report](https://datastudio.google.com/s/uJ7jL8B3D8w) |
+| GitHub Repo | [Ajitjha3095/Q2-2026-WiFi-Churn-Retention-Radar](https://github.com/Ajitjha3095/Q2-2026-WiFi-Churn-Retention-Radar) |
+
 
 
 ## 📑 Table of Contents
