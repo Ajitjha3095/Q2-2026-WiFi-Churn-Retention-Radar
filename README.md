@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="730" height="465" alt="image" src="https://github.com/user-attachments/assets/2b5f3b81-bb9e-4fd8-b7d3-b0ca7b412efa" />
+<img width="877" height="510" alt="image" src="https://github.com/user-attachments/assets/723ade04-6669-4533-8337-b88fb9811cec" />
+
 
 
 # Q2 2026 WiFi Churn & Retention Radar
