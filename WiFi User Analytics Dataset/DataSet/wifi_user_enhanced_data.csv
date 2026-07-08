@@ -1,0 +1,1001 @@
+User_ID,Device_Type,Location,Auth_Method,Subscription_Plan,Subscription_Type,Subscription_Price,Subscription_Start_Date,Tickets_Raised,Previous_Feedback,Active_Status
+USER_0001,Smartphone,Gym_Lobby,Social Login,Business,Yearly,49.99,2026-04-17 22:04:17.441232,0,Awesome,Active
+USER_0002,IoT Device,CoWorking_Space_A,WPA2-Enterprise,Business,Yearly,49.99,2024-10-24 22:04:17.441232,1,Good,Active
+USER_0003,Laptop,Gym_Lobby,WPA2-Enterprise,Business,Yearly,49.99,2024-07-27 22:04:17.441232,0,Awesome,Active
+USER_0004,Laptop,Metro_Station_Exit,WPA2-Enterprise,Basic,Monthly,9.99,2025-04-09 22:04:17.441232,0,Good,Active
+USER_0005,Smartphone,TechHub_Cafe,Social Login,Business,Yearly,49.99,2025-03-09 22:04:17.441232,0,Awesome,Active
+USER_0006,Smartphone,Food_Court_WiFi,Captive Portal,Family,Monthly,29.99,2025-02-15 22:04:17.441232,0,Awesome,Active
+USER_0007,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Free,N/A,0.0,2024-11-21 22:04:17.441232,5,Poor,Inactive
+USER_0008,Smart TV,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2024-10-14 22:04:17.441232,0,Good,Active
+USER_0009,Laptop,City_Library_Zone,WPA2-Enterprise,Premium,Monthly,19.99,2026-05-25 22:04:17.441232,0,Average,Active
+USER_0010,Laptop,Gym_Lobby,Captive Portal,Free,N/A,0.0,2026-01-11 22:04:17.441232,0,Good,Active
+USER_0011,Smartphone,Central_Park_Bench,Social Login,Premium,Monthly,19.99,2024-09-29 22:04:17.441232,0,Good,Inactive
+USER_0012,IoT Device,Innovation_Park_Gate,WPA2-Enterprise,Premium,Monthly,19.99,2026-02-26 22:04:17.441232,0,Good,Active
+USER_0013,Tablet,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-09-07 22:04:17.441232,6,Poor,Inactive
+USER_0014,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Premium,Monthly,19.99,2024-08-03 22:04:17.441232,0,Good,Active
+USER_0015,Smartphone,Central_Park_Bench,OTP Verification,Family,Monthly,29.99,2024-08-01 22:04:17.441232,1,Average,Active
+USER_0016,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2024-10-05 22:04:17.441232,0,Good,Active
+USER_0017,Smartphone,Shopping_Mall_Entrance,Social Login,Free,N/A,0.0,2025-02-10 22:04:17.441232,0,Good,Active
+USER_0018,Laptop,Food_Court_WiFi,Captive Portal,Free,N/A,0.0,2025-02-25 22:04:17.441232,3,Poor,Active
+USER_0019,Smartphone,TechHub_Cafe,WPA2-Enterprise,Basic,Monthly,9.99,2025-12-01 22:04:17.441232,1,Average,Active
+USER_0020,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Business,Monthly,49.99,2026-03-10 22:04:17.441232,0,Awesome,Active
+USER_0021,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2024-07-29 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0022,Smartphone,Metro_Station_Exit,Captive Portal,Premium,Monthly,19.99,2026-01-27 22:04:17.441232,0,Average,Active
+USER_0023,Smartphone,City_Library_Zone,Social Login,Free,N/A,0.0,2025-01-21 22:04:17.441232,4,Poor,Inactive
+USER_0024,Smartphone,Shopping_Mall_Entrance,Captive Portal,Basic,Yearly,9.99,2026-04-28 22:04:17.441232,0,Average,Active
+USER_0025,Smartphone,Food_Court_WiFi,Captive Portal,Family,Yearly,29.99,2026-06-20 22:04:17.441232,0,Awesome,Active
+USER_0026,Tablet,Metro_Station_Exit,WPA2-Enterprise,Premium,Monthly,19.99,2026-01-11 22:04:17.441232,0,Good,Active
+USER_0027,Smartphone,Food_Court_WiFi,OTP Verification,Free,N/A,0.0,2025-09-04 22:04:17.441232,0,Awesome,Active
+USER_0028,Laptop,Central_Park_Bench,Social Login,Basic,Monthly,9.99,2025-02-12 22:04:17.441232,0,Good,Active
+USER_0029,Laptop,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2025-10-04 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0030,Smartphone,Gym_Lobby,OTP Verification,Basic,Monthly,9.99,2026-02-25 22:04:17.441232,2,Average,Active
+USER_0031,Laptop,Innovation_Park_Gate,Captive Portal,Premium,Yearly,19.99,2025-04-12 22:04:17.441232,2,Average,Active
+USER_0032,Smartphone,Food_Court_WiFi,Captive Portal,Free,N/A,0.0,2024-07-08 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0033,Smartphone,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2024-12-12 22:04:17.441232,3,Poor,Inactive
+USER_0034,IoT Device,Main_Square_WiFi,Social Login,Basic,Monthly,9.99,2026-06-16 22:04:17.441232,5,Poor,Inactive
+USER_0035,IoT Device,Food_Court_WiFi,Captive Portal,Business,Monthly,49.99,2025-09-07 22:04:17.441232,0,Awesome,Active
+USER_0036,Tablet,CoWorking_Space_A,WPA2-Enterprise,Business,Monthly,49.99,2025-06-15 22:04:17.441232,0,Awesome,Active
+USER_0037,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Free,N/A,0.0,2025-04-12 22:04:17.441232,0,Awesome,Inactive
+USER_0038,Smartphone,Shopping_Mall_Entrance,OTP Verification,Family,Monthly,29.99,2024-12-08 22:04:17.441232,0,Awesome,Active
+USER_0039,Laptop,Food_Court_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2025-02-07 22:04:17.441232,6,Poor,Inactive
+USER_0040,Smartphone,TechHub_Cafe,WPA2-Enterprise,Basic,Yearly,9.99,2025-06-11 22:04:17.441232,1,Good,Active
+USER_0041,Smartphone,Gym_Lobby,Captive Portal,Family,Monthly,29.99,2024-10-14 22:04:17.441232,0,Average,Active
+USER_0042,Smartphone,CoWorking_Space_A,Captive Portal,Business,Monthly,49.99,2024-10-04 22:04:17.441232,0,Good,Active
+USER_0043,Smartphone,Innovation_Park_Gate,Captive Portal,Business,Yearly,49.99,2025-07-26 22:04:17.441232,1,Good,Active
+USER_0044,Smart TV,CoWorking_Space_A,OTP Verification,Premium,Yearly,19.99,2024-10-09 22:04:17.441232,1,Average,Active
+USER_0045,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Basic,Monthly,9.99,2025-07-04 22:04:17.441232,0,Good,Active
+USER_0046,Laptop,Gym_Lobby,WPA2-Enterprise,Family,Monthly,29.99,2025-06-19 22:04:17.441232,0,Good,Active
+USER_0047,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2026-03-12 22:04:17.441232,4,Poor,Active
+USER_0048,Laptop,Food_Court_WiFi,Social Login,Premium,Monthly,19.99,2025-03-29 22:04:17.441232,0,Good,Inactive
+USER_0049,Laptop,Food_Court_WiFi,Captive Portal,Basic,Yearly,9.99,2024-08-15 22:04:17.441232,0,Awesome,Active
+USER_0050,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2025-10-15 22:04:17.441232,1,Average,Active
+USER_0051,IoT Device,Gym_Lobby,Social Login,Free,N/A,0.0,2026-01-02 22:04:17.441232,0,Average,Active
+USER_0052,Tablet,TechHub_Cafe,Social Login,Free,N/A,0.0,2024-11-06 22:04:17.441232,1,Average,Active
+USER_0053,IoT Device,Main_Square_WiFi,Social Login,Business,Yearly,49.99,2025-07-24 22:04:17.441232,0,Awesome,Active
+USER_0054,Smart TV,City_Library_Zone,OTP Verification,Free,N/A,0.0,2024-09-20 22:04:17.441232,0,Good,Active
+USER_0055,Laptop,Central_Park_Bench,WPA2-Enterprise,Basic,Monthly,9.99,2026-01-18 22:04:17.441232,0,Good,Active
+USER_0056,Smart TV,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2025-04-28 22:04:17.441232,0,Awesome,Active
+USER_0057,Smartphone,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2026-04-06 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0058,Smartphone,Shopping_Mall_Entrance,Social Login,Free,N/A,0.0,2026-03-27 22:04:17.441232,1,Average,Active
+USER_0059,Smartphone,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2025-07-07 22:04:17.441232,5,Poor,Active
+USER_0060,Smartphone,Food_Court_WiFi,Social Login,Family,Monthly,29.99,2026-02-13 22:04:17.441232,0,Awesome,Active
+USER_0061,Smartphone,CoWorking_Space_A,Captive Portal,Free,N/A,0.0,2025-01-14 22:04:17.441232,3,Poor,Inactive
+USER_0062,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Business,Monthly,49.99,2026-06-23 22:04:17.441232,3,Poor,Active
+USER_0063,Tablet,Innovation_Park_Gate,Captive Portal,Premium,Monthly,19.99,2024-09-11 22:04:17.441232,0,Average,Active
+USER_0064,Smartphone,Food_Court_WiFi,OTP Verification,Basic,Monthly,9.99,2024-08-17 22:04:17.441232,2,Average,Active
+USER_0065,Smartphone,Innovation_Park_Gate,OTP Verification,Premium,Monthly,19.99,2026-05-10 22:04:17.441232,4,Poor,Inactive
+USER_0066,Laptop,CoWorking_Space_A,WPA2-Enterprise,Basic,Monthly,9.99,2025-02-20 22:04:17.441232,0,Good,Active
+USER_0067,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Family,Yearly,29.99,2025-04-24 22:04:17.441232,0,Good,Active
+USER_0068,Tablet,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2024-09-21 22:04:17.441232,5,Poor,Active
+USER_0069,Smartphone,TechHub_Cafe,Social Login,Basic,Monthly,9.99,2025-02-25 22:04:17.441232,0,Awesome,Active
+USER_0070,IoT Device,Metro_Station_Exit,Social Login,Family,Yearly,29.99,2024-10-13 22:04:17.441232,6,Poor,Inactive
+USER_0071,Tablet,Central_Park_Bench,WPA2-Enterprise,Business,Monthly,49.99,2025-07-26 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0072,Smartphone,Gym_Lobby,Captive Portal,Family,Monthly,29.99,2025-04-12 22:04:17.441232,0,Awesome,Active
+USER_0073,Smartphone,Central_Park_Bench,Social Login,Basic,Monthly,9.99,2025-10-09 22:04:17.441232,0,Good,Active
+USER_0074,Tablet,Shopping_Mall_Entrance,Social Login,Family,Monthly,29.99,2026-04-13 22:04:17.441232,3,Poor,Active
+USER_0075,Laptop,Central_Park_Bench,Captive Portal,Basic,Yearly,9.99,2025-07-10 22:04:17.441232,0,Average,Active
+USER_0076,Laptop,Food_Court_WiFi,Captive Portal,Basic,Monthly,9.99,2024-12-15 22:04:17.441232,0,Average,Active
+USER_0077,Tablet,Main_Square_WiFi,Captive Portal,Free,N/A,0.0,2025-07-16 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0078,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Premium,Monthly,19.99,2025-06-30 22:04:17.441232,0,Good,Active
+USER_0079,Smartphone,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2025-02-01 22:04:17.441232,0,Good,Inactive
+USER_0080,Smartphone,TechHub_Cafe,Captive Portal,Basic,Monthly,9.99,2026-05-19 22:04:17.441232,0,Average,Inactive
+USER_0081,Smart TV,CoWorking_Space_A,Social Login,Family,Monthly,29.99,2025-04-01 22:04:17.441232,6,Poor,Inactive
+USER_0082,Laptop,Gym_Lobby,Captive Portal,Free,N/A,0.0,2026-06-20 22:04:17.441232,5,Poor,Inactive
+USER_0083,Smartphone,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2026-06-01 22:04:17.441232,6,Poor,Inactive
+USER_0084,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2026-04-26 22:04:17.441232,1,Good,Active
+USER_0085,Smartphone,Innovation_Park_Gate,Captive Portal,Business,Monthly,49.99,2024-09-13 22:04:17.441232,0,Awesome,Active
+USER_0086,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Basic,Yearly,9.99,2026-03-17 22:04:17.441232,0,Awesome,Active
+USER_0087,Laptop,Central_Park_Bench,WPA2-Enterprise,Basic,Yearly,9.99,2026-04-13 22:04:17.441232,0,Good,Active
+USER_0088,Laptop,TechHub_Cafe,Social Login,Family,Monthly,29.99,2024-12-24 22:04:17.441232,1,Good,Active
+USER_0089,Smart TV,Metro_Station_Exit,OTP Verification,Family,Monthly,29.99,2025-12-30 22:04:17.441232,0,Average,Active
+USER_0090,Smartphone,Central_Park_Bench,WPA2-Enterprise,Basic,Monthly,9.99,2025-03-09 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0091,Smartphone,TechHub_Cafe,Captive Portal,Premium,Monthly,19.99,2024-12-16 22:04:17.441232,0,Awesome,Active
+USER_0092,Laptop,Central_Park_Bench,Social Login,Family,Monthly,29.99,2025-10-18 22:04:17.441232,4,Poor,Active
+USER_0093,Tablet,Gym_Lobby,WPA2-Enterprise,Premium,Monthly,19.99,2025-07-25 22:04:17.441232,1,Good,Active
+USER_0094,Laptop,Main_Square_WiFi,Captive Portal,Free,N/A,0.0,2025-04-04 22:04:17.441232,3,Poor,Inactive
+USER_0095,Tablet,Shopping_Mall_Entrance,Social Login,Family,Monthly,29.99,2026-04-18 22:04:17.441232,0,Awesome,Active
+USER_0096,Smartphone,Metro_Station_Exit,Captive Portal,Basic,Monthly,9.99,2026-06-06 22:04:17.441232,0,Awesome,Active
+USER_0097,Laptop,Metro_Station_Exit,WPA2-Enterprise,Free,N/A,0.0,2026-01-23 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0098,Smartphone,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2025-02-11 22:04:17.441232,1,Good,Active
+USER_0099,Smartphone,Food_Court_WiFi,Social Login,Free,N/A,0.0,2026-06-03 22:04:17.441232,0,Average,Inactive
+USER_0100,Smartphone,Gym_Lobby,Captive Portal,Free,N/A,0.0,2025-05-30 22:04:17.441232,5,Poor,Inactive
+USER_0101,Smartphone,Gym_Lobby,WPA2-Enterprise,Family,Monthly,29.99,2024-08-28 22:04:17.441232,0,Awesome,Active
+USER_0102,Laptop,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2025-02-21 22:04:17.441232,5,Poor,Active
+USER_0103,Smartphone,Central_Park_Bench,WPA2-Enterprise,Basic,Monthly,9.99,2024-08-03 22:04:17.441232,2,Average,Active
+USER_0104,Laptop,Food_Court_WiFi,Social Login,Basic,Monthly,9.99,2025-05-21 22:04:17.441232,1,Good,Active
+USER_0105,Smart TV,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-08-16 22:04:17.441232,1,Good,Inactive
+USER_0106,Smartphone,Main_Square_WiFi,OTP Verification,Business,Yearly,49.99,2025-04-02 22:04:17.441232,0,Awesome,Active
+USER_0107,Smartphone,Gym_Lobby,WPA2-Enterprise,Free,N/A,0.0,2024-09-07 22:04:17.441232,3,Poor,Inactive
+USER_0108,Tablet,Main_Square_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2025-02-03 22:04:17.441232,0,Awesome,Active
+USER_0109,Smartphone,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2026-02-02 22:04:17.441232,2,Average,Active
+USER_0110,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Free,N/A,0.0,2025-05-20 22:04:17.441232,0,Awesome,Active
+USER_0111,Smartphone,CoWorking_Space_A,Social Login,Free,N/A,0.0,2025-02-04 22:04:17.441232,0,Good,Active
+USER_0112,Smartphone,Shopping_Mall_Entrance,OTP Verification,Premium,Monthly,19.99,2026-05-04 22:04:17.441232,1,Average,Active
+USER_0113,Smart TV,Innovation_Park_Gate,WPA2-Enterprise,Business,Yearly,49.99,2025-11-25 22:04:17.441232,0,Awesome,Active
+USER_0114,Tablet,Central_Park_Bench,Captive Portal,Free,N/A,0.0,2025-08-11 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0115,Laptop,Shopping_Mall_Entrance,Social Login,Premium,Monthly,19.99,2026-04-21 22:04:17.441232,0,Good,Active
+USER_0116,Smart TV,Central_Park_Bench,Social Login,Premium,Monthly,19.99,2025-10-14 22:04:17.441232,0,Awesome,Active
+USER_0117,Tablet,TechHub_Cafe,Captive Portal,Family,Monthly,29.99,2024-11-25 22:04:17.441232,6,Poor,Inactive
+USER_0118,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Yearly,9.99,2025-03-30 22:04:17.441232,6,Poor,Active
+USER_0119,Smart TV,CoWorking_Space_A,Captive Portal,Basic,Yearly,9.99,2024-11-21 22:04:17.441232,1,Average,Active
+USER_0120,Laptop,Gym_Lobby,Captive Portal,Basic,Monthly,9.99,2025-03-11 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0121,Tablet,City_Library_Zone,WPA2-Enterprise,Premium,Yearly,19.99,2026-01-27 22:04:17.441232,0,Good,Active
+USER_0122,Smart TV,Metro_Station_Exit,Captive Portal,Family,Yearly,29.99,2026-01-04 22:04:17.441232,1,Good,Active
+USER_0123,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Free,N/A,0.0,2025-03-28 22:04:17.441232,1,Average,Inactive
+USER_0124,Smartphone,City_Library_Zone,Social Login,Basic,Yearly,9.99,2026-02-20 22:04:17.441232,0,Good,Active
+USER_0125,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Business,Monthly,49.99,2025-09-13 22:04:17.441232,0,Good,Active
+USER_0126,Smartphone,TechHub_Cafe,Captive Portal,Family,Monthly,29.99,2026-02-19 22:04:17.441232,1,Average,Active
+USER_0127,Tablet,Central_Park_Bench,Captive Portal,Business,Monthly,49.99,2025-08-14 22:04:17.441232,0,Good,Active
+USER_0128,Smart TV,CoWorking_Space_A,Captive Portal,Family,Yearly,29.99,2025-07-07 22:04:17.441232,6,Poor,Inactive
+USER_0129,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2025-02-11 22:04:17.441232,5,Poor,Inactive
+USER_0130,Laptop,Shopping_Mall_Entrance,Captive Portal,Premium,Monthly,19.99,2024-11-20 22:04:17.441232,0,Good,Active
+USER_0131,Smartphone,TechHub_Cafe,Captive Portal,Premium,Monthly,19.99,2025-12-05 22:04:17.441232,4,Poor,Active
+USER_0132,Smartphone,Shopping_Mall_Entrance,Captive Portal,Free,N/A,0.0,2025-11-19 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0133,Smartphone,CoWorking_Space_A,Captive Portal,Basic,Yearly,9.99,2024-10-03 22:04:17.441232,0,Awesome,Active
+USER_0134,Smartphone,Innovation_Park_Gate,Captive Portal,Premium,Yearly,19.99,2024-08-19 22:04:17.441232,2,Average,Active
+USER_0135,IoT Device,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2024-10-22 22:04:17.441232,4,Poor,Inactive
+USER_0136,Smartphone,TechHub_Cafe,WPA2-Enterprise,Family,Monthly,29.99,2024-12-05 22:04:17.441232,4,Poor,Active
+USER_0137,Laptop,Gym_Lobby,Social Login,Premium,Yearly,19.99,2026-04-05 22:04:17.441232,0,Awesome,Active
+USER_0138,Laptop,CoWorking_Space_A,Captive Portal,Business,Monthly,49.99,2024-12-12 22:04:17.441232,0,Good,Active
+USER_0139,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2026-05-29 22:04:17.441232,5,Poor,Inactive
+USER_0140,IoT Device,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2025-09-07 22:04:17.441232,5,Poor,Active
+USER_0141,IoT Device,Gym_Lobby,WPA2-Enterprise,Premium,Yearly,19.99,2026-03-04 22:04:17.441232,1,Good,Active
+USER_0142,Smartphone,Central_Park_Bench,Social Login,Free,N/A,0.0,2024-09-05 22:04:17.441232,0,Average,Active
+USER_0143,Smartphone,Central_Park_Bench,Social Login,Premium,Monthly,19.99,2025-07-31 22:04:17.441232,0,Good,Active
+USER_0144,Smartphone,Main_Square_WiFi,Social Login,Family,Monthly,29.99,2025-07-27 22:04:17.441232,3,Poor,Active
+USER_0145,Smartphone,Metro_Station_Exit,Captive Portal,Free,N/A,0.0,2026-03-04 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0146,Smartphone,Innovation_Park_Gate,Captive Portal,Basic,Yearly,9.99,2025-10-24 22:04:17.441232,0,Average,Active
+USER_0147,Laptop,Central_Park_Bench,WPA2-Enterprise,Basic,Monthly,9.99,2025-12-25 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0148,Laptop,Gym_Lobby,WPA2-Enterprise,Basic,Yearly,9.99,2025-03-16 22:04:17.441232,1,Good,Active
+USER_0149,Smartphone,CoWorking_Space_A,Captive Portal,Business,Monthly,49.99,2026-01-19 22:04:17.441232,0,Awesome,Inactive
+USER_0150,Smartphone,Central_Park_Bench,WPA2-Enterprise,Family,Monthly,29.99,2024-07-13 22:04:17.441232,0,Awesome,Active
+USER_0151,Smart TV,CoWorking_Space_A,WPA2-Enterprise,Premium,Monthly,19.99,2026-05-29 22:04:17.441232,6,Poor,Inactive
+USER_0152,Smartphone,Central_Park_Bench,Captive Portal,Premium,Monthly,19.99,2024-10-27 22:04:17.441232,4,Poor,Inactive
+USER_0153,Smartphone,Innovation_Park_Gate,Social Login,Basic,Monthly,9.99,2026-05-31 22:04:17.441232,0,Good,Active
+USER_0154,Smartphone,Shopping_Mall_Entrance,OTP Verification,Business,Monthly,49.99,2026-01-02 22:04:17.441232,3,Poor,Active
+USER_0155,IoT Device,Central_Park_Bench,OTP Verification,Premium,Monthly,19.99,2025-04-01 22:04:17.441232,1,Average,Active
+USER_0156,Smartphone,Gym_Lobby,Captive Portal,Premium,Monthly,19.99,2026-04-19 22:04:17.441232,0,Awesome,Active
+USER_0157,Laptop,Central_Park_Bench,Captive Portal,Family,Yearly,29.99,2025-06-15 22:04:17.441232,0,Awesome,Active
+USER_0158,Tablet,Metro_Station_Exit,Captive Portal,Free,N/A,0.0,2024-10-24 22:04:17.441232,6,Poor,Inactive
+USER_0159,Smartphone,Innovation_Park_Gate,Social Login,Family,Yearly,29.99,2025-04-28 22:04:17.441232,0,Good,Active
+USER_0160,Laptop,Gym_Lobby,WPA2-Enterprise,Free,N/A,0.0,2025-09-20 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0161,Smartphone,City_Library_Zone,Captive Portal,Basic,Monthly,9.99,2024-12-10 22:04:17.441232,2,Average,Active
+USER_0162,Laptop,Gym_Lobby,Social Login,Basic,Yearly,9.99,2025-10-09 22:04:17.441232,2,Average,Active
+USER_0163,Laptop,Metro_Station_Exit,WPA2-Enterprise,Business,Monthly,49.99,2024-07-05 22:04:17.441232,0,Awesome,Active
+USER_0164,Laptop,Shopping_Mall_Entrance,Captive Portal,Family,Monthly,29.99,2025-03-28 22:04:17.441232,0,Good,Inactive
+USER_0165,Smartphone,Innovation_Park_Gate,Captive Portal,Premium,Yearly,19.99,2025-11-26 22:04:17.441232,4,Poor,Inactive
+USER_0166,Tablet,City_Library_Zone,WPA2-Enterprise,Premium,Yearly,19.99,2024-12-31 22:04:17.441232,0,Good,Active
+USER_0167,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Premium,Monthly,19.99,2025-12-03 22:04:17.441232,0,Average,Active
+USER_0168,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Business,Yearly,49.99,2024-10-18 22:04:17.441232,0,Awesome,Active
+USER_0169,Smartphone,TechHub_Cafe,WPA2-Enterprise,Basic,Monthly,9.99,2026-04-03 22:04:17.441232,1,Good,Active
+USER_0170,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Basic,Yearly,9.99,2025-05-03 22:04:17.441232,2,Average,Active
+USER_0171,Laptop,Gym_Lobby,Social Login,Free,N/A,0.0,2026-04-17 22:04:17.441232,5,Poor,Active
+USER_0172,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Family,Monthly,29.99,2025-12-03 22:04:17.441232,0,Good,Active
+USER_0173,Laptop,Shopping_Mall_Entrance,Captive Portal,Premium,Monthly,19.99,2026-03-17 22:04:17.441232,0,Awesome,Active
+USER_0174,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Basic,Monthly,9.99,2025-01-21 22:04:17.441232,1,Good,Active
+USER_0175,Laptop,Gym_Lobby,OTP Verification,Free,N/A,0.0,2024-12-05 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0176,Smartphone,Gym_Lobby,WPA2-Enterprise,Family,Monthly,29.99,2025-07-19 22:04:17.441232,4,Poor,Inactive
+USER_0177,Laptop,Innovation_Park_Gate,Captive Portal,Free,N/A,0.0,2024-12-14 22:04:17.441232,4,Poor,Active
+USER_0178,Smartphone,Gym_Lobby,Social Login,Premium,Monthly,19.99,2026-01-05 22:04:17.441232,0,Average,Active
+USER_0179,IoT Device,TechHub_Cafe,Social Login,Business,Yearly,49.99,2025-12-27 22:04:17.441232,0,Awesome,Active
+USER_0180,Smartphone,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2024-07-02 22:04:17.441232,0,Awesome,Inactive
+USER_0181,Smartphone,Gym_Lobby,Social Login,Free,N/A,0.0,2026-03-07 22:04:17.441232,5,Poor,Inactive
+USER_0182,Smartphone,CoWorking_Space_A,Captive Portal,Premium,Monthly,19.99,2025-05-29 22:04:17.441232,0,Good,Active
+USER_0183,Smart TV,Gym_Lobby,Captive Portal,Family,Monthly,29.99,2025-11-14 22:04:17.441232,3,Poor,Inactive
+USER_0184,Smart TV,TechHub_Cafe,WPA2-Enterprise,Basic,Monthly,9.99,2024-07-21 22:04:17.441232,0,Awesome,Active
+USER_0185,Smartphone,Central_Park_Bench,WPA2-Enterprise,Business,Monthly,49.99,2024-10-24 22:04:17.441232,0,Good,Inactive
+USER_0186,Laptop,Central_Park_Bench,Social Login,Free,N/A,0.0,2025-07-08 22:04:17.441232,0,Awesome,Active
+USER_0187,Tablet,Metro_Station_Exit,Captive Portal,Basic,Monthly,9.99,2025-05-12 22:04:17.441232,3,Poor,Active
+USER_0188,Laptop,Shopping_Mall_Entrance,Captive Portal,Premium,Monthly,19.99,2025-03-04 22:04:17.441232,0,Average,Inactive
+USER_0189,Laptop,Main_Square_WiFi,Social Login,Family,Monthly,29.99,2024-08-30 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0190,Smartphone,City_Library_Zone,Social Login,Free,N/A,0.0,2025-03-05 22:04:17.441232,6,Poor,Active
+USER_0191,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Family,Monthly,29.99,2026-02-02 22:04:17.441232,0,Awesome,Active
+USER_0192,Smart TV,Metro_Station_Exit,Captive Portal,Premium,Yearly,19.99,2024-09-20 22:04:17.441232,0,Good,Active
+USER_0193,Smart TV,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Yearly,9.99,2024-09-27 22:04:17.441232,0,Average,Active
+USER_0194,Laptop,Central_Park_Bench,Social Login,Free,N/A,0.0,2025-11-11 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0195,Smartphone,CoWorking_Space_A,Captive Portal,Family,Monthly,29.99,2024-09-10 22:04:17.441232,1,Good,Active
+USER_0196,Smartphone,Food_Court_WiFi,OTP Verification,Free,N/A,0.0,2025-12-29 22:04:17.441232,4,Poor,Active
+USER_0197,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2024-11-07 22:04:17.441232,0,Good,Active
+USER_0198,Smart TV,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2024-11-10 22:04:17.441232,1,Average,Inactive
+USER_0199,Smart TV,Metro_Station_Exit,WPA2-Enterprise,Family,Monthly,29.99,2026-05-08 22:04:17.441232,0,Average,Active
+USER_0200,Tablet,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2025-10-31 22:04:17.441232,0,Good,Active
+USER_0201,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Family,Monthly,29.99,2026-01-15 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0202,Smartphone,Main_Square_WiFi,OTP Verification,Free,N/A,0.0,2024-12-18 22:04:17.441232,0,Awesome,Active
+USER_0203,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Premium,Monthly,19.99,2025-03-30 22:04:17.441232,0,Good,Active
+USER_0204,Smart TV,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2025-12-24 22:04:17.441232,0,Good,Active
+USER_0205,Laptop,Innovation_Park_Gate,Social Login,Family,Monthly,29.99,2026-03-15 22:04:17.441232,1,Good,Inactive
+USER_0206,Smartphone,TechHub_Cafe,Captive Portal,Business,Monthly,49.99,2025-09-08 22:04:17.441232,0,Awesome,Active
+USER_0207,Smartphone,Central_Park_Bench,Social Login,Free,N/A,0.0,2025-02-03 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0208,Laptop,TechHub_Cafe,WPA2-Enterprise,Premium,Yearly,19.99,2026-01-05 22:04:17.441232,0,Good,Active
+USER_0209,Smartphone,Gym_Lobby,Captive Portal,Free,N/A,0.0,2026-06-08 22:04:17.441232,4,Poor,Inactive
+USER_0210,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Basic,Yearly,9.99,2025-01-23 22:04:17.441232,0,Average,Active
+USER_0211,Laptop,Gym_Lobby,WPA2-Enterprise,Free,N/A,0.0,2026-07-02 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0212,Laptop,CoWorking_Space_A,OTP Verification,Basic,Monthly,9.99,2025-05-17 22:04:17.441232,1,Average,Inactive
+USER_0213,Laptop,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2025-08-14 22:04:17.441232,2,Average,Active
+USER_0214,Smartphone,CoWorking_Space_A,Captive Portal,Premium,Yearly,19.99,2026-05-20 22:04:17.441232,0,Awesome,Inactive
+USER_0215,Laptop,Food_Court_WiFi,Captive Portal,Basic,Yearly,9.99,2026-04-28 22:04:17.441232,1,Good,Active
+USER_0216,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Premium,Monthly,19.99,2025-07-19 22:04:17.441232,0,Good,Active
+USER_0217,Smartphone,Central_Park_Bench,Social Login,Basic,Monthly,9.99,2025-09-23 22:04:17.441232,0,Good,Active
+USER_0218,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Free,N/A,0.0,2025-12-13 22:04:17.441232,3,Poor,Active
+USER_0219,Laptop,Metro_Station_Exit,Captive Portal,Family,Monthly,29.99,2025-10-07 22:04:17.441232,2,Average,Active
+USER_0220,Tablet,City_Library_Zone,OTP Verification,Free,N/A,0.0,2024-11-02 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0221,Laptop,Main_Square_WiFi,Captive Portal,Basic,Monthly,9.99,2025-03-12 22:04:17.441232,0,Awesome,Active
+USER_0222,Laptop,Main_Square_WiFi,OTP Verification,Premium,Monthly,19.99,2025-02-17 22:04:17.441232,0,Good,Active
+USER_0223,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2024-09-05 22:04:17.441232,1,Good,Active
+USER_0224,Smartphone,Innovation_Park_Gate,Captive Portal,Free,N/A,0.0,2025-06-13 22:04:17.441232,1,Good,Active
+USER_0225,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2024-07-23 22:04:17.441232,0,Awesome,Active
+USER_0226,Smartphone,TechHub_Cafe,Social Login,Business,Monthly,49.99,2026-02-24 22:04:17.441232,0,Awesome,Inactive
+USER_0227,IoT Device,City_Library_Zone,OTP Verification,Premium,Yearly,19.99,2026-01-20 22:04:17.441232,1,Good,Active
+USER_0228,Smartphone,TechHub_Cafe,WPA2-Enterprise,Premium,Monthly,19.99,2025-02-22 22:04:17.441232,0,Good,Active
+USER_0229,Smart TV,Shopping_Mall_Entrance,Captive Portal,Premium,Monthly,19.99,2026-02-24 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0230,Laptop,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2025-02-12 22:04:17.441232,0,Awesome,Active
+USER_0231,Tablet,TechHub_Cafe,Captive Portal,Basic,Monthly,9.99,2024-07-09 22:04:17.441232,6,Poor,Inactive
+USER_0232,Laptop,City_Library_Zone,Captive Portal,Family,Monthly,29.99,2024-09-12 22:04:17.441232,0,Good,Active
+USER_0233,Laptop,Shopping_Mall_Entrance,OTP Verification,Free,N/A,0.0,2026-06-26 22:04:17.441232,1,Average,Active
+USER_0234,Smartphone,Gym_Lobby,Captive Portal,Free,N/A,0.0,2026-04-09 22:04:17.441232,0,Good,Active
+USER_0235,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Free,N/A,0.0,2024-08-31 22:04:17.441232,0,Awesome,Inactive
+USER_0236,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Basic,Yearly,9.99,2025-02-21 22:04:17.441232,2,Average,Active
+USER_0237,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Business,Monthly,49.99,2024-09-09 22:04:17.441232,0,Average,Active
+USER_0238,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2024-08-03 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0239,Laptop,Main_Square_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2025-06-05 22:04:17.441232,3,Poor,Active
+USER_0240,Smartphone,Food_Court_WiFi,Social Login,Free,N/A,0.0,2024-09-12 22:04:17.441232,5,Poor,Active
+USER_0241,IoT Device,TechHub_Cafe,Captive Portal,Business,Yearly,49.99,2025-12-10 22:04:17.441232,0,Good,Active
+USER_0242,IoT Device,City_Library_Zone,Captive Portal,Free,N/A,0.0,2025-03-02 22:04:17.441232,0,Average,Active
+USER_0243,Smart TV,CoWorking_Space_A,WPA2-Enterprise,Basic,Monthly,9.99,2025-04-13 22:04:17.441232,1,Average,Active
+USER_0244,Smartphone,Shopping_Mall_Entrance,Social Login,Premium,Yearly,19.99,2026-05-18 22:04:17.441232,0,Awesome,Active
+USER_0245,Smartphone,Food_Court_WiFi,Social Login,Premium,Monthly,19.99,2025-11-11 22:04:17.441232,6,Poor,Active
+USER_0246,Smart TV,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2025-02-06 22:04:17.441232,0,Good,Active
+USER_0247,Smartphone,Innovation_Park_Gate,Social Login,Basic,Monthly,9.99,2026-01-05 22:04:17.441232,0,Average,Active
+USER_0248,IoT Device,Innovation_Park_Gate,Captive Portal,Basic,Monthly,9.99,2024-11-14 22:04:17.441232,1,Good,Active
+USER_0249,IoT Device,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2026-02-06 22:04:17.441232,0,Good,Inactive
+USER_0250,Smart TV,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2026-02-12 22:04:17.441232,0,Awesome,Active
+USER_0251,Smartphone,CoWorking_Space_A,Captive Portal,Basic,Yearly,9.99,2025-10-29 22:04:17.441232,0,Awesome,Active
+USER_0252,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-03-07 22:04:17.441232,6,Poor,Active
+USER_0253,Smart TV,Food_Court_WiFi,OTP Verification,Free,N/A,0.0,2025-10-29 22:04:17.441232,0,Average,Active
+USER_0254,Smartphone,Food_Court_WiFi,Social Login,Premium,Yearly,19.99,2025-08-22 22:04:17.441232,1,Average,Active
+USER_0255,Smartphone,Main_Square_WiFi,Captive Portal,Business,Monthly,49.99,2025-01-12 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0256,Laptop,Innovation_Park_Gate,Captive Portal,Premium,Monthly,19.99,2024-10-06 22:04:17.441232,0,Average,Active
+USER_0257,IoT Device,Main_Square_WiFi,Captive Portal,Free,N/A,0.0,2024-10-09 22:04:17.441232,1,Average,Active
+USER_0258,Laptop,City_Library_Zone,Captive Portal,Free,N/A,0.0,2026-05-07 22:04:17.441232,1,Average,Active
+USER_0259,Laptop,CoWorking_Space_A,Captive Portal,Business,Yearly,49.99,2025-09-16 22:04:17.441232,1,Average,Active
+USER_0260,Smartphone,TechHub_Cafe,WPA2-Enterprise,Free,N/A,0.0,2025-06-29 22:04:17.441232,0,Awesome,Active
+USER_0261,Laptop,Gym_Lobby,Captive Portal,Free,N/A,0.0,2025-09-08 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0262,IoT Device,Metro_Station_Exit,Social Login,Premium,Yearly,19.99,2025-08-26 22:04:17.441232,0,Good,Inactive
+USER_0263,Smartphone,Metro_Station_Exit,Captive Portal,Premium,Monthly,19.99,2025-10-23 22:04:17.441232,0,Good,Active
+USER_0264,Laptop,Main_Square_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2024-08-26 22:04:17.441232,0,Awesome,Active
+USER_0265,Smart TV,City_Library_Zone,Social Login,Free,N/A,0.0,2026-05-22 22:04:17.441232,6,Poor,Active
+USER_0266,Laptop,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2026-05-02 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0267,Laptop,Central_Park_Bench,WPA2-Enterprise,Business,Monthly,49.99,2026-04-24 22:04:17.441232,3,Poor,Inactive
+USER_0268,Laptop,Metro_Station_Exit,WPA2-Enterprise,Free,N/A,0.0,2024-10-10 22:04:17.441232,0,Average,Active
+USER_0269,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Premium,Yearly,19.99,2024-09-02 22:04:17.441232,0,Awesome,Active
+USER_0270,Smartphone,TechHub_Cafe,Social Login,Premium,Monthly,19.99,2025-08-18 22:04:17.441232,0,Good,Inactive
+USER_0271,Tablet,Shopping_Mall_Entrance,Captive Portal,Premium,Monthly,19.99,2025-06-14 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0272,Tablet,City_Library_Zone,WPA2-Enterprise,Basic,Yearly,9.99,2024-10-21 22:04:17.441232,1,Good,Active
+USER_0273,Smart TV,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2025-03-13 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0274,Smart TV,CoWorking_Space_A,Social Login,Premium,Monthly,19.99,2025-01-14 22:04:17.441232,0,Awesome,Active
+USER_0275,Laptop,TechHub_Cafe,Social Login,Family,Monthly,29.99,2025-01-12 22:04:17.441232,2,Average,Active
+USER_0276,Laptop,Central_Park_Bench,WPA2-Enterprise,Business,Monthly,49.99,2026-01-02 22:04:17.441232,0,Awesome,Active
+USER_0277,Tablet,Gym_Lobby,Captive Portal,Free,N/A,0.0,2025-10-04 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0278,Laptop,Innovation_Park_Gate,OTP Verification,Free,N/A,0.0,2024-11-22 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0279,Laptop,Gym_Lobby,Social Login,Business,Monthly,49.99,2025-09-07 22:04:17.441232,2,Average,Active
+USER_0280,Tablet,Central_Park_Bench,WPA2-Enterprise,Premium,Monthly,19.99,2025-01-05 22:04:17.441232,0,Awesome,Inactive
+USER_0281,Smart TV,TechHub_Cafe,WPA2-Enterprise,Family,Monthly,29.99,2025-04-13 22:04:17.441232,0,Good,Inactive
+USER_0282,Smartphone,Metro_Station_Exit,Captive Portal,Free,N/A,0.0,2025-10-18 22:04:17.441232,2,Average,Active
+USER_0283,Smartphone,Gym_Lobby,OTP Verification,Premium,Monthly,19.99,2025-03-14 22:04:17.441232,0,Good,Active
+USER_0284,Smartphone,Innovation_Park_Gate,Captive Portal,Premium,Monthly,19.99,2024-09-17 22:04:17.441232,2,Average,Active
+USER_0285,Laptop,Main_Square_WiFi,Captive Portal,Premium,Yearly,19.99,2025-09-28 22:04:17.441232,5,Poor,Inactive
+USER_0286,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Basic,Yearly,9.99,2026-01-16 22:04:17.441232,0,Good,Active
+USER_0287,Smartphone,CoWorking_Space_A,Captive Portal,Free,N/A,0.0,2024-10-10 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0288,Laptop,Metro_Station_Exit,Social Login,Premium,Monthly,19.99,2024-08-22 22:04:17.441232,0,Average,Active
+USER_0289,Smartphone,Gym_Lobby,WPA2-Enterprise,Free,N/A,0.0,2026-04-30 22:04:17.441232,0,Good,Active
+USER_0290,Laptop,Shopping_Mall_Entrance,Social Login,Basic,Monthly,9.99,2026-01-06 22:04:17.441232,0,Average,Active
+USER_0291,Smartphone,CoWorking_Space_A,OTP Verification,Business,Monthly,49.99,2024-07-17 22:04:17.441232,0,Good,Active
+USER_0292,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2024-10-05 22:04:17.441232,1,Average,Inactive
+USER_0293,Tablet,Central_Park_Bench,Captive Portal,Family,Monthly,29.99,2025-03-01 22:04:17.441232,1,Average,Active
+USER_0294,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Free,N/A,0.0,2024-12-19 22:04:17.441232,3,Poor,Inactive
+USER_0295,Smartphone,TechHub_Cafe,Social Login,Premium,Monthly,19.99,2025-08-22 22:04:17.441232,0,Good,Active
+USER_0296,Laptop,Main_Square_WiFi,Captive Portal,Business,Monthly,49.99,2025-11-11 22:04:17.441232,0,Awesome,Active
+USER_0297,Tablet,Main_Square_WiFi,Captive Portal,Free,N/A,0.0,2025-11-06 22:04:17.441232,0,Awesome,Active
+USER_0298,Smartphone,Central_Park_Bench,Social Login,Free,N/A,0.0,2025-02-05 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0299,Laptop,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2025-08-16 22:04:17.441232,3,Poor,Active
+USER_0300,Smartphone,Central_Park_Bench,OTP Verification,Free,N/A,0.0,2024-08-31 22:04:17.441232,3,Poor,Inactive
+USER_0301,Smartphone,City_Library_Zone,Captive Portal,Premium,Monthly,19.99,2024-12-17 22:04:17.441232,0,Good,Active
+USER_0302,Laptop,City_Library_Zone,WPA2-Enterprise,Business,Monthly,49.99,2025-07-25 22:04:17.441232,1,Good,Active
+USER_0303,Laptop,Metro_Station_Exit,Captive Portal,Basic,Monthly,9.99,2024-07-04 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0304,Laptop,Metro_Station_Exit,Social Login,Free,N/A,0.0,2025-08-05 22:04:17.441232,0,Average,Active
+USER_0305,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Basic,Monthly,9.99,2025-03-30 22:04:17.441232,0,Good,Active
+USER_0306,IoT Device,Gym_Lobby,Social Login,Premium,Monthly,19.99,2025-10-10 22:04:17.441232,0,Good,Active
+USER_0307,Laptop,Gym_Lobby,OTP Verification,Free,N/A,0.0,2025-04-20 22:04:17.441232,0,Good,Active
+USER_0308,Smartphone,TechHub_Cafe,WPA2-Enterprise,Premium,Yearly,19.99,2025-09-08 22:04:17.441232,1,Average,Active
+USER_0309,Tablet,Gym_Lobby,OTP Verification,Premium,Yearly,19.99,2026-06-15 22:04:17.441232,0,Awesome,Active
+USER_0310,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Premium,Monthly,19.99,2026-01-22 22:04:17.441232,1,Average,Active
+USER_0311,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Free,N/A,0.0,2026-05-10 22:04:17.441232,3,Poor,Inactive
+USER_0312,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Premium,Monthly,19.99,2025-11-12 22:04:17.441232,0,Average,Active
+USER_0313,Smartphone,City_Library_Zone,Social Login,Free,N/A,0.0,2024-12-07 22:04:17.441232,1,Average,Active
+USER_0314,IoT Device,Central_Park_Bench,Captive Portal,Free,N/A,0.0,2025-01-12 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0315,Tablet,TechHub_Cafe,WPA2-Enterprise,Family,Monthly,29.99,2025-05-01 22:04:17.441232,1,Average,Active
+USER_0316,Laptop,City_Library_Zone,Captive Portal,Premium,Monthly,19.99,2025-02-09 22:04:17.441232,6,Poor,Inactive
+USER_0317,Smartphone,Central_Park_Bench,Captive Portal,Free,N/A,0.0,2024-08-30 22:04:17.441232,6,Poor,Active
+USER_0318,Smartphone,Gym_Lobby,WPA2-Enterprise,Free,N/A,0.0,2026-02-15 22:04:17.441232,0,Average,Active
+USER_0319,Smartphone,City_Library_Zone,Social Login,Free,N/A,0.0,2026-01-08 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0320,Smartphone,CoWorking_Space_A,Social Login,Free,N/A,0.0,2024-09-02 22:04:17.441232,0,Good,Active
+USER_0321,Laptop,Gym_Lobby,Captive Portal,Free,N/A,0.0,2025-05-19 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0322,Laptop,Central_Park_Bench,OTP Verification,Free,N/A,0.0,2024-08-29 22:04:17.441232,2,Average,Active
+USER_0323,Laptop,TechHub_Cafe,Captive Portal,Basic,Monthly,9.99,2024-08-22 22:04:17.441232,5,Poor,Active
+USER_0324,Smartphone,Central_Park_Bench,OTP Verification,Premium,Yearly,19.99,2026-02-20 22:04:17.441232,0,Average,Active
+USER_0325,IoT Device,City_Library_Zone,Captive Portal,Premium,Monthly,19.99,2025-11-02 22:04:17.441232,1,Good,Active
+USER_0326,Laptop,City_Library_Zone,Captive Portal,Premium,Yearly,19.99,2025-11-28 22:04:17.441232,0,Awesome,Active
+USER_0327,Laptop,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-12-27 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0328,Laptop,TechHub_Cafe,Social Login,Business,Monthly,49.99,2024-12-10 22:04:17.441232,5,Poor,Active
+USER_0329,Smartphone,Shopping_Mall_Entrance,Captive Portal,Family,Monthly,29.99,2024-08-29 22:04:17.441232,6,Poor,Inactive
+USER_0330,Smartphone,Gym_Lobby,WPA2-Enterprise,Family,Yearly,29.99,2025-12-04 22:04:17.441232,4,Poor,Active
+USER_0331,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Family,Monthly,29.99,2024-09-22 22:04:17.441232,1,Average,Active
+USER_0332,Tablet,TechHub_Cafe,Captive Portal,Business,Monthly,49.99,2025-01-08 22:04:17.441232,0,Good,Inactive
+USER_0333,Smartphone,Innovation_Park_Gate,Captive Portal,Basic,Monthly,9.99,2024-09-10 22:04:17.441232,0,Good,Active
+USER_0334,Smartphone,TechHub_Cafe,Social Login,Free,N/A,0.0,2026-03-03 22:04:17.441232,0,Awesome,Active
+USER_0335,Smartphone,TechHub_Cafe,Social Login,Premium,Monthly,19.99,2024-09-09 22:04:17.441232,0,Good,Active
+USER_0336,Smartphone,Central_Park_Bench,WPA2-Enterprise,Premium,Yearly,19.99,2026-05-24 22:04:17.441232,1,Good,Active
+USER_0337,Smart TV,TechHub_Cafe,Social Login,Premium,Monthly,19.99,2025-02-27 22:04:17.441232,2,Average,Inactive
+USER_0338,Laptop,Main_Square_WiFi,WPA2-Enterprise,Basic,Yearly,9.99,2025-08-19 22:04:17.441232,0,Awesome,Active
+USER_0339,Smartphone,Shopping_Mall_Entrance,Social Login,Free,N/A,0.0,2024-11-01 22:04:17.441232,2,Average,Active
+USER_0340,Smartphone,City_Library_Zone,Social Login,Basic,Yearly,9.99,2026-02-05 22:04:17.441232,0,Good,Active
+USER_0341,Smartphone,Food_Court_WiFi,Captive Portal,Business,Yearly,49.99,2025-03-11 22:04:17.441232,0,Awesome,Active
+USER_0342,Smartphone,Innovation_Park_Gate,Social Login,Premium,Monthly,19.99,2026-02-14 22:04:17.441232,0,Awesome,Active
+USER_0343,Smartphone,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2026-03-02 22:04:17.441232,0,Awesome,Active
+USER_0344,Smartphone,Food_Court_WiFi,Captive Portal,Free,N/A,0.0,2024-08-11 22:04:17.441232,6,Poor,Active
+USER_0345,Smartphone,Shopping_Mall_Entrance,Social Login,Basic,Yearly,9.99,2026-03-28 22:04:17.441232,1,Average,Active
+USER_0346,Laptop,Shopping_Mall_Entrance,Captive Portal,Family,Monthly,29.99,2024-09-23 22:04:17.441232,0,Good,Active
+USER_0347,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Premium,Monthly,19.99,2025-09-04 22:04:17.441232,0,Average,Active
+USER_0348,Smartphone,Innovation_Park_Gate,Captive Portal,Family,Monthly,29.99,2026-05-06 22:04:17.441232,0,Good,Active
+USER_0349,Smartphone,Shopping_Mall_Entrance,Social Login,Basic,Monthly,9.99,2026-02-19 22:04:17.441232,1,Good,Active
+USER_0350,Laptop,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2026-01-31 22:04:17.441232,1,Average,Active
+USER_0351,Laptop,TechHub_Cafe,WPA2-Enterprise,Free,N/A,0.0,2025-12-19 22:04:17.441232,1,Good,Active
+USER_0352,Smart TV,Gym_Lobby,Social Login,Premium,Monthly,19.99,2025-05-21 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0353,Laptop,CoWorking_Space_A,Social Login,Basic,Monthly,9.99,2025-03-26 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0354,Smartphone,City_Library_Zone,WPA2-Enterprise,Basic,Yearly,9.99,2025-01-27 22:04:17.441232,0,Good,Active
+USER_0355,Smartphone,Central_Park_Bench,WPA2-Enterprise,Premium,Monthly,19.99,2026-05-18 22:04:17.441232,0,Average,Active
+USER_0356,Laptop,City_Library_Zone,WPA2-Enterprise,Business,Yearly,49.99,2025-05-19 22:04:17.441232,0,Good,Inactive
+USER_0357,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-03-03 22:04:17.441232,0,Awesome,Active
+USER_0358,Laptop,Food_Court_WiFi,Captive Portal,Family,Monthly,29.99,2025-03-30 22:04:17.441232,3,Poor,Inactive
+USER_0359,IoT Device,Central_Park_Bench,Social Login,Free,N/A,0.0,2025-08-11 22:04:17.441232,2,Average,Active
+USER_0360,Laptop,Innovation_Park_Gate,Captive Portal,Basic,Yearly,9.99,2024-11-13 22:04:17.441232,0,Awesome,Active
+USER_0361,Smartphone,Gym_Lobby,Captive Portal,Free,N/A,0.0,2026-05-20 22:04:17.441232,0,Average,Active
+USER_0362,Laptop,Gym_Lobby,WPA2-Enterprise,Basic,Monthly,9.99,2026-04-23 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0363,Smartphone,Innovation_Park_Gate,Social Login,Basic,Yearly,9.99,2025-05-05 22:04:17.441232,0,Good,Active
+USER_0364,Laptop,Main_Square_WiFi,Captive Portal,Free,N/A,0.0,2025-10-13 22:04:17.441232,4,Poor,Active
+USER_0365,IoT Device,Food_Court_WiFi,OTP Verification,Basic,Monthly,9.99,2025-05-21 22:04:17.441232,0,Good,Active
+USER_0366,Smartphone,Main_Square_WiFi,Captive Portal,Business,Yearly,49.99,2024-09-14 22:04:17.441232,0,Awesome,Active
+USER_0367,IoT Device,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2024-07-11 22:04:17.441232,0,Average,Inactive
+USER_0368,Smart TV,City_Library_Zone,Captive Portal,Family,Monthly,29.99,2025-10-14 22:04:17.441232,2,Average,Active
+USER_0369,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Yearly,9.99,2026-03-30 22:04:17.441232,3,Poor,Inactive
+USER_0370,Smartphone,City_Library_Zone,Captive Portal,Premium,Yearly,19.99,2026-01-29 22:04:17.441232,6,Poor,Inactive
+USER_0371,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2024-10-12 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0372,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2024-09-15 22:04:17.441232,3,Poor,Active
+USER_0373,Smartphone,Central_Park_Bench,Social Login,Free,N/A,0.0,2026-01-03 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0374,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2025-02-05 22:04:17.441232,1,Average,Active
+USER_0375,Smartphone,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2025-12-02 22:04:17.441232,1,Good,Active
+USER_0376,Smartphone,City_Library_Zone,WPA2-Enterprise,Premium,Monthly,19.99,2025-03-30 22:04:17.441232,1,Good,Active
+USER_0377,Tablet,Food_Court_WiFi,Captive Portal,Family,Monthly,29.99,2024-11-14 22:04:17.441232,0,Awesome,Active
+USER_0378,Smartphone,Central_Park_Bench,Captive Portal,Family,Yearly,29.99,2025-06-24 22:04:17.441232,0,Good,Active
+USER_0379,Tablet,CoWorking_Space_A,Captive Portal,Premium,Monthly,19.99,2024-09-10 22:04:17.441232,1,Average,Active
+USER_0380,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2025-03-09 22:04:17.441232,3,Poor,Inactive
+USER_0381,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2025-07-15 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0382,Laptop,Food_Court_WiFi,WPA2-Enterprise,Basic,Yearly,9.99,2025-04-19 22:04:17.441232,1,Good,Active
+USER_0383,Laptop,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2024-12-10 22:04:17.441232,0,Average,Active
+USER_0384,Smart TV,Gym_Lobby,Captive Portal,Basic,Monthly,9.99,2025-09-23 22:04:17.441232,0,Average,Active
+USER_0385,Laptop,Food_Court_WiFi,OTP Verification,Basic,Monthly,9.99,2026-01-09 22:04:17.441232,0,Average,Active
+USER_0386,Tablet,Metro_Station_Exit,Social Login,Basic,Yearly,9.99,2026-06-22 22:04:17.441232,0,Good,Active
+USER_0387,Smartphone,Food_Court_WiFi,Social Login,Basic,Monthly,9.99,2025-05-07 22:04:17.441232,0,Awesome,Active
+USER_0388,Smartphone,CoWorking_Space_A,Social Login,Family,Yearly,29.99,2026-03-20 22:04:17.441232,0,Awesome,Active
+USER_0389,Tablet,Innovation_Park_Gate,Captive Portal,Family,Monthly,29.99,2026-05-02 22:04:17.441232,0,Awesome,Active
+USER_0390,Tablet,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2025-12-25 22:04:17.441232,1,Good,Active
+USER_0391,IoT Device,Innovation_Park_Gate,OTP Verification,Business,Monthly,49.99,2024-07-10 22:04:17.441232,0,Awesome,Active
+USER_0392,Smartphone,CoWorking_Space_A,Captive Portal,Business,Monthly,49.99,2026-05-16 22:04:17.441232,0,Good,Active
+USER_0393,Smartphone,City_Library_Zone,Captive Portal,Basic,Monthly,9.99,2026-01-20 22:04:17.441232,0,Good,Active
+USER_0394,Tablet,Metro_Station_Exit,WPA2-Enterprise,Basic,Monthly,9.99,2025-05-04 22:04:17.441232,4,Poor,Inactive
+USER_0395,Smartphone,Gym_Lobby,Captive Portal,Basic,Monthly,9.99,2026-05-12 22:04:17.441232,2,Average,Active
+USER_0396,IoT Device,Central_Park_Bench,Captive Portal,Business,Monthly,49.99,2024-10-16 22:04:17.441232,0,Good,Active
+USER_0397,Smart TV,CoWorking_Space_A,Social Login,Family,Yearly,29.99,2024-11-16 22:04:17.441232,4,Poor,Active
+USER_0398,Smartphone,Shopping_Mall_Entrance,Captive Portal,Free,N/A,0.0,2025-03-29 22:04:17.441232,0,Good,Inactive
+USER_0399,Tablet,CoWorking_Space_A,WPA2-Enterprise,Basic,Monthly,9.99,2024-10-28 22:04:17.441232,0,Awesome,Active
+USER_0400,Tablet,CoWorking_Space_A,OTP Verification,Premium,Monthly,19.99,2024-10-19 22:04:17.441232,2,Average,Active
+USER_0401,Smartphone,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2026-01-19 22:04:17.441232,0,Awesome,Active
+USER_0402,Smart TV,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2024-12-08 22:04:17.441232,1,Good,Active
+USER_0403,Laptop,Food_Court_WiFi,WPA2-Enterprise,Family,Monthly,29.99,2025-04-06 22:04:17.441232,0,Average,Active
+USER_0404,Tablet,TechHub_Cafe,Social Login,Premium,Yearly,19.99,2025-04-16 22:04:17.441232,0,Awesome,Active
+USER_0405,Smartphone,Metro_Station_Exit,OTP Verification,Family,Monthly,29.99,2026-03-13 22:04:17.441232,0,Average,Active
+USER_0406,Smart TV,Shopping_Mall_Entrance,WPA2-Enterprise,Family,Monthly,29.99,2025-02-02 22:04:17.441232,0,Good,Active
+USER_0407,Smartphone,Gym_Lobby,Social Login,Premium,Monthly,19.99,2025-06-18 22:04:17.441232,0,Average,Active
+USER_0408,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2025-01-26 22:04:17.441232,1,Average,Active
+USER_0409,Smart TV,Metro_Station_Exit,OTP Verification,Premium,Yearly,19.99,2026-06-05 22:04:17.441232,1,Good,Active
+USER_0410,Smartphone,Main_Square_WiFi,Social Login,Free,N/A,0.0,2026-04-12 22:04:17.441232,1,Average,Active
+USER_0411,Smartphone,Main_Square_WiFi,Social Login,Premium,Monthly,19.99,2025-03-29 22:04:17.441232,6,Poor,Inactive
+USER_0412,IoT Device,Gym_Lobby,WPA2-Enterprise,Free,N/A,0.0,2025-12-01 22:04:17.441232,1,Average,Active
+USER_0413,IoT Device,Innovation_Park_Gate,OTP Verification,Premium,Yearly,19.99,2025-11-14 22:04:17.441232,1,Good,Active
+USER_0414,Laptop,TechHub_Cafe,Social Login,Free,N/A,0.0,2025-03-16 22:04:17.441232,1,Average,Active
+USER_0415,Laptop,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2024-08-23 22:04:17.441232,0,Good,Active
+USER_0416,Smartphone,Central_Park_Bench,Social Login,Free,N/A,0.0,2024-10-04 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0417,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2026-04-12 22:04:17.441232,1,Average,Active
+USER_0418,Smartphone,Shopping_Mall_Entrance,Social Login,Premium,Monthly,19.99,2025-09-08 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0419,Laptop,Metro_Station_Exit,WPA2-Enterprise,Premium,Monthly,19.99,2025-04-11 22:04:17.441232,0,Average,Active
+USER_0420,Tablet,Innovation_Park_Gate,Social Login,Basic,Yearly,9.99,2024-08-16 22:04:17.441232,0,Awesome,Active
+USER_0421,Tablet,Main_Square_WiFi,Captive Portal,Free,N/A,0.0,2024-07-05 22:04:17.441232,4,Poor,Active
+USER_0422,Tablet,Innovation_Park_Gate,WPA2-Enterprise,Free,N/A,0.0,2025-06-08 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0423,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Free,N/A,0.0,2024-11-12 22:04:17.441232,4,Poor,Active
+USER_0424,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2026-04-15 22:04:17.441232,6,Poor,Active
+USER_0425,Smartphone,City_Library_Zone,Captive Portal,Family,Monthly,29.99,2025-03-27 22:04:17.441232,1,Average,Active
+USER_0426,Laptop,Food_Court_WiFi,WPA2-Enterprise,Free,N/A,0.0,2024-12-14 22:04:17.441232,1,Average,Active
+USER_0427,Smartphone,Shopping_Mall_Entrance,Captive Portal,Basic,Monthly,9.99,2025-09-27 22:04:17.441232,4,Poor,Active
+USER_0428,Smart TV,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2026-01-17 22:04:17.441232,1,Good,Active
+USER_0429,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2026-06-24 22:04:17.441232,0,Awesome,Active
+USER_0430,Smartphone,Shopping_Mall_Entrance,Social Login,Basic,Monthly,9.99,2025-09-12 22:04:17.441232,0,Awesome,Active
+USER_0431,Smartphone,City_Library_Zone,WPA2-Enterprise,Premium,Monthly,19.99,2026-01-27 22:04:17.441232,0,Good,Active
+USER_0432,Tablet,CoWorking_Space_A,OTP Verification,Free,N/A,0.0,2024-07-11 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0433,Laptop,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2024-10-24 22:04:17.441232,5,Poor,Inactive
+USER_0434,Smartphone,Gym_Lobby,Captive Portal,Basic,Monthly,9.99,2024-09-17 22:04:17.441232,0,Good,Active
+USER_0435,Smartphone,Metro_Station_Exit,Captive Portal,Free,N/A,0.0,2026-06-09 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0436,Laptop,TechHub_Cafe,Social Login,Free,N/A,0.0,2024-12-01 22:04:17.441232,0,Average,Active
+USER_0437,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Business,Monthly,49.99,2026-01-11 22:04:17.441232,0,Good,Active
+USER_0438,Tablet,Shopping_Mall_Entrance,WPA2-Enterprise,Premium,Monthly,19.99,2024-08-07 22:04:17.441232,1,Good,Active
+USER_0439,Laptop,Gym_Lobby,WPA2-Enterprise,Premium,Monthly,19.99,2025-07-15 22:04:17.441232,0,Average,Active
+USER_0440,Smartphone,Main_Square_WiFi,Social Login,Basic,Monthly,9.99,2026-02-18 22:04:17.441232,0,Awesome,Active
+USER_0441,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2026-01-18 22:04:17.441232,3,Poor,Active
+USER_0442,IoT Device,Shopping_Mall_Entrance,Captive Portal,Basic,Monthly,9.99,2024-11-30 22:04:17.441232,1,Good,Active
+USER_0443,Smartphone,Innovation_Park_Gate,OTP Verification,Premium,Monthly,19.99,2025-09-15 22:04:17.441232,0,Good,Active
+USER_0444,Smartphone,Food_Court_WiFi,Social Login,Premium,Yearly,19.99,2024-11-09 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0445,Tablet,Metro_Station_Exit,Captive Portal,Free,N/A,0.0,2024-08-13 22:04:17.441232,0,Awesome,Active
+USER_0446,IoT Device,Metro_Station_Exit,WPA2-Enterprise,Basic,Monthly,9.99,2025-05-13 22:04:17.441232,0,Good,Active
+USER_0447,IoT Device,City_Library_Zone,Social Login,Basic,Yearly,9.99,2025-07-10 22:04:17.441232,1,Good,Active
+USER_0448,Tablet,Central_Park_Bench,Captive Portal,Family,Monthly,29.99,2024-08-11 22:04:17.441232,6,Poor,Inactive
+USER_0449,Smartphone,City_Library_Zone,WPA2-Enterprise,Premium,Monthly,19.99,2025-07-03 22:04:17.441232,1,Good,Active
+USER_0450,Smartphone,Gym_Lobby,WPA2-Enterprise,Basic,Monthly,9.99,2025-02-02 22:04:17.441232,0,Awesome,Active
+USER_0451,Tablet,Food_Court_WiFi,OTP Verification,Free,N/A,0.0,2026-05-31 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0452,Laptop,Central_Park_Bench,Captive Portal,Premium,Monthly,19.99,2025-03-14 22:04:17.441232,1,Good,Active
+USER_0453,Smartphone,Main_Square_WiFi,Social Login,Free,N/A,0.0,2026-05-15 22:04:17.441232,0,Awesome,Active
+USER_0454,Smart TV,Innovation_Park_Gate,Social Login,Basic,Monthly,9.99,2024-10-15 22:04:17.441232,3,Poor,Active
+USER_0455,Smartphone,Food_Court_WiFi,Captive Portal,Free,N/A,0.0,2025-06-29 22:04:17.441232,0,Awesome,Active
+USER_0456,Smartphone,City_Library_Zone,Captive Portal,Premium,Monthly,19.99,2026-01-26 22:04:17.441232,0,Awesome,Active
+USER_0457,Smartphone,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2025-08-22 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0458,Smartphone,Central_Park_Bench,WPA2-Enterprise,Basic,Monthly,9.99,2026-03-29 22:04:17.441232,0,Awesome,Active
+USER_0459,Smartphone,Central_Park_Bench,Captive Portal,Family,Yearly,29.99,2024-12-07 22:04:17.441232,0,Awesome,Active
+USER_0460,Smartphone,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2025-03-01 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0461,Smartphone,CoWorking_Space_A,Captive Portal,Basic,Monthly,9.99,2024-12-15 22:04:17.441232,4,Poor,Inactive
+USER_0462,Laptop,Metro_Station_Exit,Social Login,Basic,Monthly,9.99,2024-12-30 22:04:17.441232,0,Good,Active
+USER_0463,Laptop,Metro_Station_Exit,Captive Portal,Free,N/A,0.0,2025-08-28 22:04:17.441232,1,Average,Active
+USER_0464,Laptop,TechHub_Cafe,Captive Portal,Family,Yearly,29.99,2024-07-27 22:04:17.441232,0,Good,Active
+USER_0465,IoT Device,Gym_Lobby,Captive Portal,Free,N/A,0.0,2025-01-01 22:04:17.441232,4,Poor,Inactive
+USER_0466,Smartphone,Gym_Lobby,Captive Portal,Basic,Monthly,9.99,2025-06-07 22:04:17.441232,1,Good,Active
+USER_0467,Smartphone,Main_Square_WiFi,Social Login,Premium,Monthly,19.99,2025-08-27 22:04:17.441232,0,Awesome,Active
+USER_0468,Smart TV,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2026-05-18 22:04:17.441232,0,Good,Active
+USER_0469,Smartphone,Shopping_Mall_Entrance,Captive Portal,Premium,Yearly,19.99,2025-03-13 22:04:17.441232,0,Awesome,Active
+USER_0470,IoT Device,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2025-04-01 22:04:17.441232,1,Average,Active
+USER_0471,Smartphone,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2024-12-12 22:04:17.441232,3,Poor,Inactive
+USER_0472,IoT Device,Shopping_Mall_Entrance,Captive Portal,Premium,Yearly,19.99,2026-06-20 22:04:17.441232,1,Good,Active
+USER_0473,Smartphone,Shopping_Mall_Entrance,Captive Portal,Basic,Monthly,9.99,2024-10-20 22:04:17.441232,1,Average,Active
+USER_0474,Smart TV,Central_Park_Bench,OTP Verification,Family,Monthly,29.99,2025-07-28 22:04:17.441232,0,Good,Active
+USER_0475,Laptop,TechHub_Cafe,Captive Portal,Family,Yearly,29.99,2024-08-10 22:04:17.441232,0,Awesome,Active
+USER_0476,IoT Device,Metro_Station_Exit,Social Login,Family,Monthly,29.99,2025-10-26 22:04:17.441232,0,Good,Active
+USER_0477,Smartphone,Main_Square_WiFi,Captive Portal,Basic,Monthly,9.99,2025-02-14 22:04:17.441232,1,Average,Inactive
+USER_0478,Laptop,Gym_Lobby,Captive Portal,Basic,Monthly,9.99,2025-01-22 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0479,IoT Device,TechHub_Cafe,WPA2-Enterprise,Family,Monthly,29.99,2025-10-16 22:04:17.441232,0,Awesome,Active
+USER_0480,Laptop,Central_Park_Bench,WPA2-Enterprise,Basic,Monthly,9.99,2025-06-25 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0481,Laptop,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2025-05-10 22:04:17.441232,0,Awesome,Active
+USER_0482,Laptop,Main_Square_WiFi,Captive Portal,Family,Monthly,29.99,2025-02-20 22:04:17.441232,0,Good,Inactive
+USER_0483,Smartphone,Central_Park_Bench,WPA2-Enterprise,Family,Monthly,29.99,2025-02-15 22:04:17.441232,6,Poor,Active
+USER_0484,Laptop,Metro_Station_Exit,WPA2-Enterprise,Basic,Monthly,9.99,2024-07-26 22:04:17.441232,0,Good,Active
+USER_0485,Laptop,Metro_Station_Exit,WPA2-Enterprise,Free,N/A,0.0,2026-05-08 22:04:17.441232,4,Poor,Inactive
+USER_0486,Smart TV,Metro_Station_Exit,OTP Verification,Basic,Yearly,9.99,2025-01-15 22:04:17.441232,0,Good,Active
+USER_0487,Smartphone,TechHub_Cafe,WPA2-Enterprise,Family,Monthly,29.99,2025-08-14 22:04:17.441232,0,Good,Active
+USER_0488,Smartphone,TechHub_Cafe,Captive Portal,Business,Monthly,49.99,2025-06-03 22:04:17.441232,0,Good,Active
+USER_0489,IoT Device,Gym_Lobby,WPA2-Enterprise,Free,N/A,0.0,2025-04-13 22:04:17.441232,0,Good,Active
+USER_0490,Smart TV,Gym_Lobby,Captive Portal,Free,N/A,0.0,2024-09-11 22:04:17.441232,2,Average,Active
+USER_0491,Smartphone,City_Library_Zone,WPA2-Enterprise,Family,Monthly,29.99,2025-04-13 22:04:17.441232,1,Average,Active
+USER_0492,Laptop,Main_Square_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2025-06-26 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0493,Smartphone,Innovation_Park_Gate,Captive Portal,Basic,Monthly,9.99,2026-04-19 22:04:17.441232,1,Average,Active
+USER_0494,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Business,Monthly,49.99,2025-12-05 22:04:17.441232,0,Awesome,Active
+USER_0495,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-08-15 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0496,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Premium,Yearly,19.99,2026-05-28 22:04:17.441232,1,Good,Active
+USER_0497,Laptop,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2026-01-02 22:04:17.441232,1,Average,Active
+USER_0498,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Yearly,9.99,2025-06-06 22:04:17.441232,0,Awesome,Active
+USER_0499,IoT Device,TechHub_Cafe,WPA2-Enterprise,Family,Monthly,29.99,2024-07-30 22:04:17.441232,0,Awesome,Active
+USER_0500,IoT Device,Food_Court_WiFi,Social Login,Basic,Monthly,9.99,2024-10-28 22:04:17.441232,0,Awesome,Active
+USER_0501,Laptop,CoWorking_Space_A,Captive Portal,Business,Monthly,49.99,2025-03-26 22:04:17.441232,0,Awesome,Active
+USER_0502,Laptop,City_Library_Zone,Captive Portal,Premium,Yearly,19.99,2024-12-31 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0503,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Basic,Yearly,9.99,2026-02-16 22:04:17.441232,0,Good,Active
+USER_0504,Tablet,Metro_Station_Exit,OTP Verification,Free,N/A,0.0,2025-03-30 22:04:17.441232,0,Good,Inactive
+USER_0505,Laptop,Metro_Station_Exit,WPA2-Enterprise,Basic,Monthly,9.99,2024-08-10 22:04:17.441232,0,Awesome,Active
+USER_0506,Smartphone,TechHub_Cafe,WPA2-Enterprise,Basic,Monthly,9.99,2024-10-21 22:04:17.441232,0,Average,Active
+USER_0507,Smart TV,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2026-03-04 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0508,Tablet,CoWorking_Space_A,WPA2-Enterprise,Basic,Yearly,9.99,2025-09-19 22:04:17.441232,0,Average,Active
+USER_0509,IoT Device,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2025-06-20 22:04:17.441232,1,Good,Inactive
+USER_0510,Laptop,Main_Square_WiFi,Captive Portal,Premium,Monthly,19.99,2025-05-19 22:04:17.441232,4,Poor,Active
+USER_0511,Laptop,Metro_Station_Exit,Social Login,Premium,Monthly,19.99,2025-09-21 22:04:17.441232,1,Good,Active
+USER_0512,Smartphone,Innovation_Park_Gate,Captive Portal,Premium,Monthly,19.99,2026-03-14 22:04:17.441232,0,Good,Active
+USER_0513,IoT Device,Gym_Lobby,Social Login,Free,N/A,0.0,2025-12-07 22:04:17.441232,5,Poor,Inactive
+USER_0514,Smart TV,Innovation_Park_Gate,OTP Verification,Free,N/A,0.0,2024-10-28 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0515,Smartphone,Central_Park_Bench,WPA2-Enterprise,Premium,Yearly,19.99,2025-07-31 22:04:17.441232,0,Good,Active
+USER_0516,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Basic,Yearly,9.99,2026-02-12 22:04:17.441232,4,Poor,Active
+USER_0517,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-01-12 22:04:17.441232,0,Average,Inactive
+USER_0518,Tablet,Food_Court_WiFi,Captive Portal,Family,Monthly,29.99,2025-03-19 22:04:17.441232,0,Awesome,Active
+USER_0519,IoT Device,Gym_Lobby,Captive Portal,Family,Monthly,29.99,2024-08-16 22:04:17.441232,5,Poor,Active
+USER_0520,Smartphone,Innovation_Park_Gate,OTP Verification,Basic,Monthly,9.99,2026-06-27 22:04:17.441232,1,Average,Active
+USER_0521,Laptop,Food_Court_WiFi,Social Login,Free,N/A,0.0,2025-09-21 22:04:17.441232,0,Awesome,Active
+USER_0522,Smartphone,City_Library_Zone,Captive Portal,Family,Monthly,29.99,2024-07-03 22:04:17.441232,1,Average,Active
+USER_0523,IoT Device,Main_Square_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2025-12-16 22:04:17.441232,0,Awesome,Inactive
+USER_0524,Tablet,Food_Court_WiFi,Social Login,Family,Monthly,29.99,2026-01-04 22:04:17.441232,0,Good,Active
+USER_0525,Tablet,Main_Square_WiFi,OTP Verification,Family,Monthly,29.99,2026-06-05 22:04:17.441232,0,Awesome,Active
+USER_0526,Smartphone,Innovation_Park_Gate,Social Login,Family,Monthly,29.99,2026-05-19 22:04:17.441232,0,Average,Inactive
+USER_0527,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2025-01-19 22:04:17.441232,1,Average,Active
+USER_0528,Smartphone,Food_Court_WiFi,Captive Portal,Free,N/A,0.0,2025-07-09 22:04:17.441232,2,Average,Active
+USER_0529,Smartphone,Gym_Lobby,WPA2-Enterprise,Premium,Monthly,19.99,2025-09-16 22:04:17.441232,1,Good,Active
+USER_0530,Smart TV,Innovation_Park_Gate,WPA2-Enterprise,Premium,Monthly,19.99,2024-09-11 22:04:17.441232,0,Good,Active
+USER_0531,Tablet,Metro_Station_Exit,WPA2-Enterprise,Premium,Monthly,19.99,2026-05-13 22:04:17.441232,4,Poor,Active
+USER_0532,IoT Device,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2025-06-05 22:04:17.441232,3,Poor,Active
+USER_0533,IoT Device,Food_Court_WiFi,Captive Portal,Free,N/A,0.0,2026-04-01 22:04:17.441232,0,Awesome,Active
+USER_0534,Laptop,Gym_Lobby,WPA2-Enterprise,Family,Yearly,29.99,2025-05-19 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0535,Tablet,City_Library_Zone,WPA2-Enterprise,Premium,Monthly,19.99,2026-05-12 22:04:17.441232,0,Awesome,Active
+USER_0536,IoT Device,Metro_Station_Exit,Captive Portal,Business,Monthly,49.99,2024-11-06 22:04:17.441232,5,Poor,Inactive
+USER_0537,Tablet,City_Library_Zone,WPA2-Enterprise,Family,Yearly,29.99,2025-05-05 22:04:17.441232,0,Good,Inactive
+USER_0538,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Premium,Yearly,19.99,2025-12-03 22:04:17.441232,0,Good,Active
+USER_0539,Smartphone,TechHub_Cafe,Captive Portal,Premium,Monthly,19.99,2025-05-14 22:04:17.441232,0,Average,Active
+USER_0540,Smartphone,Food_Court_WiFi,Social Login,Family,Yearly,29.99,2026-05-15 22:04:17.441232,0,Awesome,Active
+USER_0541,IoT Device,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2025-08-24 22:04:17.441232,2,Average,Active
+USER_0542,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Premium,Monthly,19.99,2025-06-01 22:04:17.441232,0,Good,Active
+USER_0543,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2025-08-18 22:04:17.441232,5,Poor,Inactive
+USER_0544,Laptop,Innovation_Park_Gate,OTP Verification,Basic,Monthly,9.99,2026-06-15 22:04:17.441232,0,Good,Inactive
+USER_0545,Laptop,Innovation_Park_Gate,Captive Portal,Premium,Monthly,19.99,2025-04-30 22:04:17.441232,0,Awesome,Inactive
+USER_0546,Smartphone,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2026-01-20 22:04:17.441232,1,Average,Active
+USER_0547,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2024-11-09 22:04:17.441232,0,Awesome,Active
+USER_0548,Laptop,Gym_Lobby,Captive Portal,Basic,Monthly,9.99,2025-01-14 22:04:17.441232,0,Awesome,Active
+USER_0549,Laptop,Gym_Lobby,WPA2-Enterprise,Free,N/A,0.0,2025-09-05 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0550,Tablet,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2026-05-13 22:04:17.441232,5,Poor,Active
+USER_0551,Laptop,Gym_Lobby,OTP Verification,Basic,Monthly,9.99,2025-07-25 22:04:17.441232,5,Poor,Inactive
+USER_0552,Smart TV,Central_Park_Bench,Captive Portal,Business,Monthly,49.99,2026-05-26 22:04:17.441232,0,Awesome,Active
+USER_0553,Laptop,Main_Square_WiFi,Social Login,Basic,Monthly,9.99,2024-12-27 22:04:17.441232,1,Good,Active
+USER_0554,Laptop,TechHub_Cafe,Social Login,Free,N/A,0.0,2026-03-24 22:04:17.441232,0,Average,Active
+USER_0555,Smart TV,TechHub_Cafe,WPA2-Enterprise,Free,N/A,0.0,2026-02-04 22:04:17.441232,4,Poor,Active
+USER_0556,Smartphone,CoWorking_Space_A,OTP Verification,Premium,Monthly,19.99,2025-05-06 22:04:17.441232,0,Awesome,Active
+USER_0557,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Basic,Monthly,9.99,2025-08-21 22:04:17.441232,0,Awesome,Active
+USER_0558,Smartphone,Metro_Station_Exit,Captive Portal,Family,Monthly,29.99,2026-01-14 22:04:17.441232,0,Good,Inactive
+USER_0559,Tablet,Central_Park_Bench,WPA2-Enterprise,Premium,Yearly,19.99,2024-07-02 22:04:17.441232,1,Good,Active
+USER_0560,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Family,Yearly,29.99,2025-05-09 22:04:17.441232,0,Good,Active
+USER_0561,Laptop,Innovation_Park_Gate,Captive Portal,Free,N/A,0.0,2025-04-21 22:04:17.441232,5,Poor,Inactive
+USER_0562,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Premium,Yearly,19.99,2025-02-02 22:04:17.441232,1,Average,Active
+USER_0563,Smartphone,City_Library_Zone,Captive Portal,Free,N/A,0.0,2025-09-15 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0564,Smartphone,Central_Park_Bench,Captive Portal,Business,Monthly,49.99,2026-02-15 22:04:17.441232,0,Good,Active
+USER_0565,Smartphone,TechHub_Cafe,WPA2-Enterprise,Premium,Yearly,19.99,2026-03-15 22:04:17.441232,0,Average,Active
+USER_0566,Laptop,Central_Park_Bench,WPA2-Enterprise,Basic,Monthly,9.99,2026-05-03 22:04:17.441232,0,Good,Active
+USER_0567,Smartphone,Central_Park_Bench,Captive Portal,Free,N/A,0.0,2025-05-27 22:04:17.441232,3,Poor,Inactive
+USER_0568,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-10-21 22:04:17.441232,0,Awesome,Active
+USER_0569,Smart TV,Metro_Station_Exit,Social Login,Premium,Monthly,19.99,2025-09-27 22:04:17.441232,0,Good,Active
+USER_0570,Smartphone,Central_Park_Bench,Captive Portal,Free,N/A,0.0,2025-09-27 22:04:17.441232,6,Poor,Inactive
+USER_0571,Laptop,Main_Square_WiFi,Social Login,Premium,Monthly,19.99,2026-05-24 22:04:17.441232,1,Good,Active
+USER_0572,Tablet,Innovation_Park_Gate,Captive Portal,Free,N/A,0.0,2025-02-05 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0573,Smartphone,City_Library_Zone,Captive Portal,Premium,Monthly,19.99,2025-12-07 22:04:17.441232,4,Poor,Active
+USER_0574,Laptop,Main_Square_WiFi,Captive Portal,Family,Monthly,29.99,2025-10-29 22:04:17.441232,0,Good,Active
+USER_0575,Smart TV,City_Library_Zone,WPA2-Enterprise,Family,Monthly,29.99,2024-12-22 22:04:17.441232,0,Good,Active
+USER_0576,IoT Device,CoWorking_Space_A,WPA2-Enterprise,Family,Yearly,29.99,2026-05-07 22:04:17.441232,0,Awesome,Active
+USER_0577,Smartphone,City_Library_Zone,Social Login,Free,N/A,0.0,2024-09-26 22:04:17.441232,2,Average,Active
+USER_0578,Smart TV,Innovation_Park_Gate,Captive Portal,Free,N/A,0.0,2025-04-18 22:04:17.441232,3,Poor,Inactive
+USER_0579,Smartphone,Innovation_Park_Gate,Social Login,Premium,Monthly,19.99,2025-12-11 22:04:17.441232,0,Good,Active
+USER_0580,Smartphone,Central_Park_Bench,Social Login,Basic,Monthly,9.99,2026-05-12 22:04:17.441232,5,Poor,Active
+USER_0581,Smartphone,Food_Court_WiFi,Social Login,Basic,Yearly,9.99,2026-04-11 22:04:17.441232,1,Average,Active
+USER_0582,IoT Device,CoWorking_Space_A,OTP Verification,Free,N/A,0.0,2026-03-28 22:04:17.441232,3,Poor,Active
+USER_0583,Smartphone,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2025-06-10 22:04:17.441232,5,Poor,Active
+USER_0584,Smartphone,Gym_Lobby,WPA2-Enterprise,Free,N/A,0.0,2024-10-05 22:04:17.441232,4,Poor,Active
+USER_0585,Laptop,City_Library_Zone,Captive Portal,Family,Monthly,29.99,2025-02-27 22:04:17.441232,0,Average,Active
+USER_0586,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Free,N/A,0.0,2026-05-21 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0587,Smartphone,Central_Park_Bench,Captive Portal,Premium,Monthly,19.99,2025-05-15 22:04:17.441232,1,Good,Active
+USER_0588,Smartphone,Metro_Station_Exit,Social Login,Free,N/A,0.0,2025-02-17 22:04:17.441232,4,Poor,Inactive
+USER_0589,Smartphone,TechHub_Cafe,Captive Portal,Premium,Monthly,19.99,2025-01-21 22:04:17.441232,2,Average,Active
+USER_0590,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2024-11-29 22:04:17.441232,0,Good,Active
+USER_0591,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Family,Monthly,29.99,2024-07-27 22:04:17.441232,1,Good,Active
+USER_0592,Laptop,Metro_Station_Exit,Captive Portal,Family,Monthly,29.99,2024-08-18 22:04:17.441232,1,Average,Active
+USER_0593,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Basic,Monthly,9.99,2025-03-09 22:04:17.441232,2,Average,Active
+USER_0594,Smartphone,Central_Park_Bench,Social Login,Business,Monthly,49.99,2025-10-31 22:04:17.441232,0,Awesome,Active
+USER_0595,Smart TV,TechHub_Cafe,WPA2-Enterprise,Business,Monthly,49.99,2026-03-19 22:04:17.441232,1,Good,Active
+USER_0596,Smartphone,TechHub_Cafe,WPA2-Enterprise,Family,Monthly,29.99,2024-09-14 22:04:17.441232,0,Average,Active
+USER_0597,Laptop,TechHub_Cafe,WPA2-Enterprise,Family,Monthly,29.99,2025-10-11 22:04:17.441232,1,Good,Active
+USER_0598,Smartphone,CoWorking_Space_A,Captive Portal,Free,N/A,0.0,2025-08-30 22:04:17.441232,6,Poor,Active
+USER_0599,Smartphone,City_Library_Zone,Captive Portal,Premium,Yearly,19.99,2026-04-07 22:04:17.441232,1,Average,Active
+USER_0600,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2026-02-11 22:04:17.441232,3,Poor,Inactive
+USER_0601,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2025-01-17 22:04:17.441232,2,Average,Active
+USER_0602,Smartphone,Gym_Lobby,Captive Portal,Business,Monthly,49.99,2026-06-15 22:04:17.441232,2,Average,Active
+USER_0603,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2025-07-30 22:04:17.441232,0,Average,Active
+USER_0604,Smartphone,Innovation_Park_Gate,Captive Portal,Premium,Monthly,19.99,2025-11-20 22:04:17.441232,6,Poor,Inactive
+USER_0605,Smartphone,Central_Park_Bench,Captive Portal,Family,Monthly,29.99,2025-08-15 22:04:17.441232,0,Average,Inactive
+USER_0606,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Family,Monthly,29.99,2025-03-08 22:04:17.441232,0,Average,Inactive
+USER_0607,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Business,Monthly,49.99,2024-11-30 22:04:17.441232,0,Awesome,Active
+USER_0608,Smartphone,Shopping_Mall_Entrance,OTP Verification,Free,N/A,0.0,2026-05-04 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0609,Laptop,Gym_Lobby,Captive Portal,Free,N/A,0.0,2026-06-06 22:04:17.441232,0,Good,Active
+USER_0610,Laptop,Innovation_Park_Gate,Captive Portal,Basic,Yearly,9.99,2024-07-07 22:04:17.441232,0,Good,Active
+USER_0611,Smartphone,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2024-10-19 22:04:17.441232,0,Average,Active
+USER_0612,Tablet,Metro_Station_Exit,Captive Portal,Free,N/A,0.0,2025-09-10 22:04:17.441232,0,Awesome,Active
+USER_0613,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Yearly,9.99,2025-02-11 22:04:17.441232,1,Good,Active
+USER_0614,Smartphone,Central_Park_Bench,Captive Portal,Family,Monthly,29.99,2024-12-29 22:04:17.441232,0,Good,Inactive
+USER_0615,Smart TV,Metro_Station_Exit,OTP Verification,Premium,Yearly,19.99,2026-06-14 22:04:17.441232,0,Good,Active
+USER_0616,Smart TV,Innovation_Park_Gate,WPA2-Enterprise,Basic,Monthly,9.99,2025-12-14 22:04:17.441232,0,Good,Active
+USER_0617,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Premium,Monthly,19.99,2025-10-20 22:04:17.441232,1,Average,Inactive
+USER_0618,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2024-08-22 22:04:17.441232,0,Awesome,Inactive
+USER_0619,Tablet,Food_Court_WiFi,WPA2-Enterprise,Free,N/A,0.0,2026-01-23 22:04:17.441232,2,Average,Active
+USER_0620,Laptop,City_Library_Zone,WPA2-Enterprise,Family,Monthly,29.99,2025-03-14 22:04:17.441232,0,Awesome,Active
+USER_0621,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Premium,Monthly,19.99,2024-11-03 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0622,Smartphone,Metro_Station_Exit,Social Login,Family,Yearly,29.99,2025-10-12 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0623,Smartphone,Food_Court_WiFi,Captive Portal,Free,N/A,0.0,2024-11-15 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0624,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Family,Monthly,29.99,2025-10-20 22:04:17.441232,0,Awesome,Active
+USER_0625,Laptop,Metro_Station_Exit,OTP Verification,Premium,Monthly,19.99,2026-05-16 22:04:17.441232,0,Awesome,Active
+USER_0626,Smartphone,Central_Park_Bench,WPA2-Enterprise,Premium,Yearly,19.99,2025-12-27 22:04:17.441232,0,Good,Inactive
+USER_0627,Smartphone,Main_Square_WiFi,OTP Verification,Premium,Monthly,19.99,2026-01-25 22:04:17.441232,0,Awesome,Inactive
+USER_0628,Laptop,CoWorking_Space_A,WPA2-Enterprise,Family,Monthly,29.99,2026-03-03 22:04:17.441232,0,Good,Active
+USER_0629,Smartphone,Main_Square_WiFi,Social Login,Premium,Monthly,19.99,2025-05-22 22:04:17.441232,0,Good,Active
+USER_0630,Smartphone,Metro_Station_Exit,Captive Portal,Premium,Yearly,19.99,2025-09-28 22:04:17.441232,0,Awesome,Active
+USER_0631,Laptop,City_Library_Zone,Social Login,Business,Yearly,49.99,2026-03-21 22:04:17.441232,0,Good,Inactive
+USER_0632,Smart TV,CoWorking_Space_A,OTP Verification,Family,Monthly,29.99,2025-11-30 22:04:17.441232,0,Good,Active
+USER_0633,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Basic,Monthly,9.99,2025-09-11 22:04:17.441232,4,Poor,Inactive
+USER_0634,Laptop,Main_Square_WiFi,OTP Verification,Premium,Monthly,19.99,2026-01-14 22:04:17.441232,1,Average,Active
+USER_0635,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Basic,Yearly,9.99,2025-10-01 22:04:17.441232,0,Good,Active
+USER_0636,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2024-12-11 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0637,Laptop,CoWorking_Space_A,WPA2-Enterprise,Premium,Monthly,19.99,2025-10-31 22:04:17.441232,0,Awesome,Active
+USER_0638,Smartphone,Gym_Lobby,Captive Portal,Business,Monthly,49.99,2025-10-05 22:04:17.441232,0,Awesome,Active
+USER_0639,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Business,Yearly,49.99,2025-03-24 22:04:17.441232,0,Good,Inactive
+USER_0640,Smartphone,Main_Square_WiFi,Captive Portal,Basic,Monthly,9.99,2025-03-12 22:04:17.441232,0,Good,Inactive
+USER_0641,Smartphone,Innovation_Park_Gate,Captive Portal,Basic,Monthly,9.99,2026-04-15 22:04:17.441232,6,Poor,Inactive
+USER_0642,Smartphone,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2025-04-11 22:04:17.441232,5,Poor,Active
+USER_0643,Smartphone,TechHub_Cafe,Social Login,Business,Monthly,49.99,2025-12-17 22:04:17.441232,0,Awesome,Active
+USER_0644,Smartphone,Main_Square_WiFi,Captive Portal,Business,Yearly,49.99,2025-11-10 22:04:17.441232,0,Average,Active
+USER_0645,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Premium,Monthly,19.99,2026-04-04 22:04:17.441232,2,Average,Active
+USER_0646,Smart TV,Central_Park_Bench,WPA2-Enterprise,Family,Monthly,29.99,2025-03-03 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0647,Laptop,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2025-04-09 22:04:17.441232,0,Good,Inactive
+USER_0648,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Premium,Monthly,19.99,2025-09-25 22:04:17.441232,0,Awesome,Active
+USER_0649,Tablet,Food_Court_WiFi,WPA2-Enterprise,Free,N/A,0.0,2024-09-19 22:04:17.441232,1,Average,Active
+USER_0650,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2026-07-02 22:04:17.441232,0,Awesome,Inactive
+USER_0651,Smartphone,Gym_Lobby,OTP Verification,Premium,Monthly,19.99,2025-04-20 22:04:17.441232,3,Poor,Inactive
+USER_0652,Laptop,TechHub_Cafe,Captive Portal,Premium,Yearly,19.99,2025-02-27 22:04:17.441232,1,Good,Active
+USER_0653,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2025-04-06 22:04:17.441232,2,Average,Active
+USER_0654,Laptop,Shopping_Mall_Entrance,Captive Portal,Business,Monthly,49.99,2025-06-10 22:04:17.441232,0,Awesome,Active
+USER_0655,Smartphone,Gym_Lobby,WPA2-Enterprise,Free,N/A,0.0,2025-05-25 22:04:17.441232,6,Poor,Active
+USER_0656,Smartphone,Main_Square_WiFi,Captive Portal,Basic,Monthly,9.99,2026-01-06 22:04:17.441232,0,Good,Active
+USER_0657,Smartphone,Main_Square_WiFi,Captive Portal,Premium,Monthly,19.99,2024-09-22 22:04:17.441232,4,Poor,Inactive
+USER_0658,Smartphone,Main_Square_WiFi,Captive Portal,Premium,Yearly,19.99,2024-11-20 22:04:17.441232,0,Awesome,Inactive
+USER_0659,Laptop,City_Library_Zone,Captive Portal,Premium,Monthly,19.99,2024-12-03 22:04:17.441232,5,Poor,Inactive
+USER_0660,Laptop,Food_Court_WiFi,OTP Verification,Free,N/A,0.0,2025-02-23 22:04:17.441232,3,Poor,Active
+USER_0661,Smartphone,City_Library_Zone,Social Login,Free,N/A,0.0,2025-07-29 22:04:17.441232,1,Average,Active
+USER_0662,IoT Device,TechHub_Cafe,Captive Portal,Premium,Monthly,19.99,2026-06-12 22:04:17.441232,0,Good,Active
+USER_0663,Laptop,Gym_Lobby,Captive Portal,Premium,Monthly,19.99,2024-12-05 22:04:17.441232,0,Average,Active
+USER_0664,Smartphone,Shopping_Mall_Entrance,Captive Portal,Free,N/A,0.0,2026-06-25 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0665,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2025-02-06 22:04:17.441232,0,Awesome,Active
+USER_0666,Smartphone,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2024-09-05 22:04:17.441232,0,Awesome,Active
+USER_0667,Smartphone,City_Library_Zone,WPA2-Enterprise,Premium,Monthly,19.99,2025-08-30 22:04:17.441232,1,Good,Active
+USER_0668,Smartphone,Metro_Station_Exit,Captive Portal,Family,Yearly,29.99,2025-08-23 22:04:17.441232,2,Average,Active
+USER_0669,Smartphone,City_Library_Zone,Captive Portal,Free,N/A,0.0,2025-06-05 22:04:17.441232,3,Poor,Active
+USER_0670,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2026-01-08 22:04:17.441232,3,Poor,Inactive
+USER_0671,Smartphone,Shopping_Mall_Entrance,OTP Verification,Family,Yearly,29.99,2025-10-22 22:04:17.441232,0,Average,Active
+USER_0672,Smart TV,Central_Park_Bench,OTP Verification,Premium,Monthly,19.99,2025-08-31 22:04:17.441232,0,Awesome,Active
+USER_0673,Smartphone,Shopping_Mall_Entrance,Social Login,Premium,Yearly,19.99,2024-09-03 22:04:17.441232,2,Average,Active
+USER_0674,Laptop,Gym_Lobby,Captive Portal,Family,Monthly,29.99,2025-01-29 22:04:17.441232,0,Good,Inactive
+USER_0675,Smartphone,Shopping_Mall_Entrance,Social Login,Family,Monthly,29.99,2025-09-05 22:04:17.441232,1,Good,Inactive
+USER_0676,IoT Device,Central_Park_Bench,WPA2-Enterprise,Business,Monthly,49.99,2025-08-04 22:04:17.441232,0,Good,Active
+USER_0677,Smartphone,Shopping_Mall_Entrance,Social Login,Basic,Monthly,9.99,2026-02-20 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0678,Smartphone,Gym_Lobby,WPA2-Enterprise,Basic,Monthly,9.99,2026-06-14 22:04:17.441232,0,Average,Active
+USER_0679,IoT Device,Gym_Lobby,Social Login,Basic,Monthly,9.99,2024-07-22 22:04:17.441232,1,Average,Active
+USER_0680,Smart TV,TechHub_Cafe,WPA2-Enterprise,Free,N/A,0.0,2026-02-11 22:04:17.441232,0,Good,Active
+USER_0681,Tablet,Shopping_Mall_Entrance,Social Login,Premium,Monthly,19.99,2025-07-26 22:04:17.441232,0,Awesome,Active
+USER_0682,Smartphone,Metro_Station_Exit,OTP Verification,Free,N/A,0.0,2025-11-02 22:04:17.441232,0,Awesome,Inactive
+USER_0683,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Business,Monthly,49.99,2024-07-08 22:04:17.441232,0,Awesome,Inactive
+USER_0684,Laptop,Innovation_Park_Gate,Captive Portal,Premium,Monthly,19.99,2025-06-27 22:04:17.441232,1,Average,Active
+USER_0685,Smart TV,Gym_Lobby,OTP Verification,Premium,Yearly,19.99,2025-05-03 22:04:17.441232,0,Average,Active
+USER_0686,Laptop,CoWorking_Space_A,Captive Portal,Basic,Monthly,9.99,2025-08-05 22:04:17.441232,1,Good,Active
+USER_0687,Laptop,Main_Square_WiFi,Social Login,Free,N/A,0.0,2025-09-04 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0688,Smartphone,Food_Court_WiFi,Captive Portal,Free,N/A,0.0,2026-01-04 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0689,Tablet,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2026-01-12 22:04:17.441232,2,Average,Active
+USER_0690,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2026-03-11 22:04:17.441232,4,Poor,Active
+USER_0691,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Premium,Monthly,19.99,2025-02-12 22:04:17.441232,3,Poor,Active
+USER_0692,Smartphone,CoWorking_Space_A,Social Login,Family,Monthly,29.99,2025-11-13 22:04:17.441232,0,Good,Active
+USER_0693,Laptop,Main_Square_WiFi,WPA2-Enterprise,Family,Yearly,29.99,2025-02-11 22:04:17.441232,3,Poor,Active
+USER_0694,Smartphone,Shopping_Mall_Entrance,Captive Portal,Premium,Monthly,19.99,2025-04-07 22:04:17.441232,1,Average,Active
+USER_0695,Smartphone,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2025-09-21 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0696,Laptop,Food_Court_WiFi,Captive Portal,Family,Monthly,29.99,2025-11-11 22:04:17.441232,0,Awesome,Active
+USER_0697,Smartphone,Innovation_Park_Gate,Social Login,Family,Yearly,29.99,2024-07-31 22:04:17.441232,3,Poor,Inactive
+USER_0698,Laptop,Metro_Station_Exit,OTP Verification,Free,N/A,0.0,2025-08-04 22:04:17.441232,4,Poor,Active
+USER_0699,Smartphone,TechHub_Cafe,Captive Portal,Premium,Monthly,19.99,2025-06-11 22:04:17.441232,1,Good,Active
+USER_0700,Smartphone,CoWorking_Space_A,Social Login,Free,N/A,0.0,2026-05-17 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0701,Laptop,Innovation_Park_Gate,Social Login,Family,Monthly,29.99,2026-05-28 22:04:17.441232,0,Good,Active
+USER_0702,Smartphone,TechHub_Cafe,Captive Portal,Business,Monthly,49.99,2025-08-20 22:04:17.441232,1,Good,Active
+USER_0703,Smartphone,Food_Court_WiFi,OTP Verification,Free,N/A,0.0,2024-12-18 22:04:17.441232,4,Poor,Inactive
+USER_0704,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Family,Yearly,29.99,2025-10-23 22:04:17.441232,0,Awesome,Active
+USER_0705,Smartphone,TechHub_Cafe,WPA2-Enterprise,Premium,Monthly,19.99,2024-11-09 22:04:17.441232,4,Poor,Inactive
+USER_0706,IoT Device,City_Library_Zone,Social Login,Business,Monthly,49.99,2026-03-31 22:04:17.441232,1,Good,Inactive
+USER_0707,Smartphone,Metro_Station_Exit,Captive Portal,Basic,Monthly,9.99,2025-12-30 22:04:17.441232,0,Awesome,Active
+USER_0708,Tablet,CoWorking_Space_A,Social Login,Family,Monthly,29.99,2024-07-29 22:04:17.441232,0,Awesome,Active
+USER_0709,Smartphone,Food_Court_WiFi,Social Login,Free,N/A,0.0,2025-08-09 22:04:17.441232,1,Average,Active
+USER_0710,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2026-02-28 22:04:17.441232,0,Good,Active
+USER_0711,Tablet,Central_Park_Bench,Social Login,Free,N/A,0.0,2026-01-30 22:04:17.441232,0,Good,Active
+USER_0712,Laptop,Central_Park_Bench,Captive Portal,Business,Monthly,49.99,2026-05-11 22:04:17.441232,1,Good,Inactive
+USER_0713,Smartphone,Central_Park_Bench,Captive Portal,Family,Monthly,29.99,2024-07-29 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0714,Smartphone,Innovation_Park_Gate,Captive Portal,Family,Yearly,29.99,2024-09-25 22:04:17.441232,0,Awesome,Active
+USER_0715,Smartphone,CoWorking_Space_A,OTP Verification,Business,Yearly,49.99,2026-04-21 22:04:17.441232,0,Awesome,Active
+USER_0716,Smart TV,Food_Court_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-09-13 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0717,Tablet,Metro_Station_Exit,Captive Portal,Basic,Monthly,9.99,2024-11-17 22:04:17.441232,0,Good,Inactive
+USER_0718,IoT Device,Innovation_Park_Gate,Captive Portal,Free,N/A,0.0,2025-10-17 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0719,Smartphone,CoWorking_Space_A,Social Login,Free,N/A,0.0,2025-01-04 22:04:17.441232,0,Awesome,Active
+USER_0720,Laptop,Shopping_Mall_Entrance,Captive Portal,Free,N/A,0.0,2024-08-22 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0721,IoT Device,City_Library_Zone,WPA2-Enterprise,Basic,Yearly,9.99,2025-03-25 22:04:17.441232,0,Average,Active
+USER_0722,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-07-25 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0723,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-06-02 22:04:17.441232,0,Good,Active
+USER_0724,Laptop,TechHub_Cafe,Social Login,Free,N/A,0.0,2025-02-03 22:04:17.441232,0,Good,Active
+USER_0725,Laptop,Food_Court_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-10-10 22:04:17.441232,3,Poor,Active
+USER_0726,Tablet,Gym_Lobby,WPA2-Enterprise,Business,Monthly,49.99,2025-06-01 22:04:17.441232,0,Good,Active
+USER_0727,Smartphone,CoWorking_Space_A,OTP Verification,Family,Monthly,29.99,2025-06-12 22:04:17.441232,0,Awesome,Active
+USER_0728,Tablet,Main_Square_WiFi,WPA2-Enterprise,Business,Monthly,49.99,2025-07-25 22:04:17.441232,0,Awesome,Active
+USER_0729,Smartphone,Shopping_Mall_Entrance,OTP Verification,Basic,Yearly,9.99,2025-04-12 22:04:17.441232,0,Awesome,Active
+USER_0730,Smartphone,City_Library_Zone,Captive Portal,Free,N/A,0.0,2025-09-06 22:04:17.441232,1,Good,Active
+USER_0731,Smartphone,Shopping_Mall_Entrance,Social Login,Family,Yearly,29.99,2025-03-17 22:04:17.441232,0,Average,Active
+USER_0732,Tablet,Food_Court_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2024-09-23 22:04:17.441232,0,Good,Active
+USER_0733,Laptop,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-10-26 22:04:17.441232,4,Poor,Active
+USER_0734,Laptop,Gym_Lobby,Social Login,Free,N/A,0.0,2024-07-21 22:04:17.441232,0,Average,Inactive
+USER_0735,Smartphone,Metro_Station_Exit,Social Login,Free,N/A,0.0,2026-01-05 22:04:17.441232,0,Awesome,Active
+USER_0736,Smart TV,TechHub_Cafe,Social Login,Free,N/A,0.0,2024-08-24 22:04:17.441232,0,Awesome,Active
+USER_0737,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Basic,Yearly,9.99,2025-06-25 22:04:17.441232,0,Average,Active
+USER_0738,Tablet,CoWorking_Space_A,Social Login,Premium,Monthly,19.99,2025-02-16 22:04:17.441232,0,Good,Active
+USER_0739,Smartphone,Central_Park_Bench,Social Login,Free,N/A,0.0,2026-04-28 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0740,Smartphone,Gym_Lobby,Captive Portal,Free,N/A,0.0,2024-09-10 22:04:17.441232,1,Average,Active
+USER_0741,Smartphone,TechHub_Cafe,Social Login,Family,Yearly,29.99,2026-04-30 22:04:17.441232,0,Good,Active
+USER_0742,Smartphone,City_Library_Zone,Social Login,Free,N/A,0.0,2024-08-12 22:04:17.441232,4,Poor,Inactive
+USER_0743,Laptop,Central_Park_Bench,Captive Portal,Basic,Yearly,9.99,2024-08-02 22:04:17.441232,1,Good,Active
+USER_0744,Laptop,Food_Court_WiFi,WPA2-Enterprise,Family,Monthly,29.99,2025-03-12 22:04:17.441232,0,Awesome,Active
+USER_0745,Smartphone,Main_Square_WiFi,Captive Portal,Free,N/A,0.0,2025-01-22 22:04:17.441232,0,Awesome,Active
+USER_0746,Smart TV,TechHub_Cafe,WPA2-Enterprise,Free,N/A,0.0,2024-07-22 22:04:17.441232,4,Poor,Inactive
+USER_0747,Smartphone,Innovation_Park_Gate,Captive Portal,Basic,Yearly,9.99,2026-03-30 22:04:17.441232,0,Average,Active
+USER_0748,Laptop,Metro_Station_Exit,Captive Portal,Basic,Monthly,9.99,2024-12-05 22:04:17.441232,0,Awesome,Active
+USER_0749,Smart TV,Metro_Station_Exit,WPA2-Enterprise,Premium,Monthly,19.99,2025-03-03 22:04:17.441232,0,Awesome,Active
+USER_0750,Laptop,Gym_Lobby,WPA2-Enterprise,Family,Monthly,29.99,2024-11-08 22:04:17.441232,0,Average,Active
+USER_0751,Smartphone,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2025-10-29 22:04:17.441232,0,Awesome,Active
+USER_0752,IoT Device,Gym_Lobby,Social Login,Premium,Monthly,19.99,2026-05-18 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0753,Laptop,Innovation_Park_Gate,OTP Verification,Basic,Yearly,9.99,2024-10-27 22:04:17.441232,1,Good,Active
+USER_0754,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2026-01-30 22:04:17.441232,3,Poor,Inactive
+USER_0755,Smartphone,City_Library_Zone,OTP Verification,Premium,Monthly,19.99,2025-02-10 22:04:17.441232,5,Poor,Active
+USER_0756,Tablet,Shopping_Mall_Entrance,Captive Portal,Free,N/A,0.0,2025-10-21 22:04:17.441232,3,Poor,Inactive
+USER_0757,Laptop,CoWorking_Space_A,WPA2-Enterprise,Basic,Monthly,9.99,2026-06-18 22:04:17.441232,0,Good,Active
+USER_0758,Laptop,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2025-03-21 22:04:17.441232,5,Poor,Inactive
+USER_0759,Smart TV,City_Library_Zone,Captive Portal,Basic,Yearly,9.99,2025-07-14 22:04:17.441232,4,Poor,Inactive
+USER_0760,Tablet,Innovation_Park_Gate,Social Login,Basic,Yearly,9.99,2024-12-20 22:04:17.441232,0,Good,Active
+USER_0761,Smartphone,Food_Court_WiFi,Social Login,Family,Monthly,29.99,2026-03-14 22:04:17.441232,0,Good,Inactive
+USER_0762,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Free,N/A,0.0,2026-03-15 22:04:17.441232,0,Awesome,Active
+USER_0763,Smartphone,City_Library_Zone,WPA2-Enterprise,Basic,Yearly,9.99,2024-10-27 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0764,Laptop,TechHub_Cafe,Captive Portal,Basic,Monthly,9.99,2024-12-16 22:04:17.441232,0,Awesome,Active
+USER_0765,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Premium,Yearly,19.99,2025-05-16 22:04:17.441232,0,Average,Inactive
+USER_0766,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Premium,Monthly,19.99,2024-10-20 22:04:17.441232,6,Poor,Inactive
+USER_0767,Tablet,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2026-02-14 22:04:17.441232,0,Good,Active
+USER_0768,Smart TV,Main_Square_WiFi,Social Login,Family,Monthly,29.99,2024-07-28 22:04:17.441232,2,Average,Active
+USER_0769,Smartphone,Gym_Lobby,OTP Verification,Family,Monthly,29.99,2025-05-17 22:04:17.441232,0,Good,Active
+USER_0770,Tablet,City_Library_Zone,Captive Portal,Basic,Monthly,9.99,2026-02-11 22:04:17.441232,1,Good,Active
+USER_0771,Smartphone,Shopping_Mall_Entrance,OTP Verification,Basic,Monthly,9.99,2026-05-26 22:04:17.441232,4,Poor,Inactive
+USER_0772,Tablet,Main_Square_WiFi,WPA2-Enterprise,Family,Monthly,29.99,2025-07-21 22:04:17.441232,2,Average,Active
+USER_0773,Smartphone,Metro_Station_Exit,Captive Portal,Business,Yearly,49.99,2025-08-12 22:04:17.441232,0,Awesome,Active
+USER_0774,Smartphone,Central_Park_Bench,WPA2-Enterprise,Family,Monthly,29.99,2025-01-21 22:04:17.441232,0,Good,Active
+USER_0775,Tablet,Food_Court_WiFi,Captive Portal,Basic,Monthly,9.99,2024-09-17 22:04:17.441232,0,Average,Active
+USER_0776,Smartphone,Shopping_Mall_Entrance,OTP Verification,Free,N/A,0.0,2026-02-28 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0777,Smartphone,Central_Park_Bench,Captive Portal,Basic,Monthly,9.99,2026-06-09 22:04:17.441232,0,Good,Active
+USER_0778,Laptop,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2026-04-05 22:04:17.441232,0,Good,Active
+USER_0779,Laptop,TechHub_Cafe,Captive Portal,Basic,Yearly,9.99,2025-03-07 22:04:17.441232,1,Good,Active
+USER_0780,Laptop,Gym_Lobby,WPA2-Enterprise,Basic,Yearly,9.99,2024-10-14 22:04:17.441232,6,Poor,Inactive
+USER_0781,Laptop,Main_Square_WiFi,Social Login,Family,Monthly,29.99,2026-06-15 22:04:17.441232,0,Good,Active
+USER_0782,Laptop,CoWorking_Space_A,Captive Portal,Basic,Monthly,9.99,2025-05-06 22:04:17.441232,2,Average,Active
+USER_0783,Smartphone,Food_Court_WiFi,Captive Portal,Family,Yearly,29.99,2026-06-02 22:04:17.441232,1,Average,Active
+USER_0784,Smartphone,CoWorking_Space_A,Captive Portal,Basic,Monthly,9.99,2026-03-08 22:04:17.441232,0,Good,Active
+USER_0785,Smartphone,Gym_Lobby,Captive Portal,Basic,Yearly,9.99,2024-11-02 22:04:17.441232,0,Awesome,Active
+USER_0786,Smart TV,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2026-02-01 22:04:17.441232,1,Good,Inactive
+USER_0787,Laptop,Metro_Station_Exit,Captive Portal,Family,Yearly,29.99,2024-08-13 22:04:17.441232,1,Average,Active
+USER_0788,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-06-22 22:04:17.441232,2,Average,Active
+USER_0789,Smartphone,Gym_Lobby,Social Login,Free,N/A,0.0,2025-12-29 22:04:17.441232,0,Good,Active
+USER_0790,IoT Device,Gym_Lobby,Social Login,Business,Monthly,49.99,2025-09-13 22:04:17.441232,5,Poor,Inactive
+USER_0791,Smartphone,TechHub_Cafe,Social Login,Free,N/A,0.0,2026-05-10 22:04:17.441232,0,Good,Active
+USER_0792,Laptop,Central_Park_Bench,Captive Portal,Premium,Monthly,19.99,2025-07-16 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0793,Laptop,Metro_Station_Exit,Captive Portal,Premium,Yearly,19.99,2024-09-10 22:04:17.441232,0,Good,Active
+USER_0794,Laptop,Main_Square_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2025-12-02 22:04:17.441232,2,Average,Active
+USER_0795,Smartphone,City_Library_Zone,Social Login,Premium,Monthly,19.99,2026-04-26 22:04:17.441232,6,Poor,Inactive
+USER_0796,Smart TV,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2025-06-16 22:04:17.441232,5,Poor,Active
+USER_0797,IoT Device,Innovation_Park_Gate,Captive Portal,Premium,Monthly,19.99,2024-07-14 22:04:17.441232,0,Awesome,Active
+USER_0798,Laptop,Gym_Lobby,WPA2-Enterprise,Basic,Monthly,9.99,2025-09-05 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0799,Laptop,Food_Court_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2025-11-15 22:04:17.441232,0,Average,Active
+USER_0800,Smart TV,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2024-10-18 22:04:17.441232,0,Average,Inactive
+USER_0801,Laptop,Metro_Station_Exit,WPA2-Enterprise,Premium,Monthly,19.99,2025-09-18 22:04:17.441232,0,Awesome,Active
+USER_0802,Smartphone,City_Library_Zone,Social Login,Free,N/A,0.0,2025-07-07 22:04:17.441232,0,Good,Active
+USER_0803,Laptop,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2026-04-13 22:04:17.441232,0,Average,Inactive
+USER_0804,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Free,N/A,0.0,2025-10-15 22:04:17.441232,1,Average,Active
+USER_0805,Smartphone,Main_Square_WiFi,Captive Portal,Free,N/A,0.0,2026-06-26 22:04:17.441232,1,Average,Active
+USER_0806,Laptop,TechHub_Cafe,WPA2-Enterprise,Family,Monthly,29.99,2024-12-05 22:04:17.441232,0,Awesome,Active
+USER_0807,IoT Device,Food_Court_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-09-20 22:04:17.441232,0,Average,Active
+USER_0808,Smart TV,Innovation_Park_Gate,Social Login,Business,Monthly,49.99,2024-12-29 22:04:17.441232,0,Awesome,Active
+USER_0809,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Business,Yearly,49.99,2025-12-18 22:04:17.441232,0,Awesome,Active
+USER_0810,Smartphone,Central_Park_Bench,Social Login,Premium,Monthly,19.99,2026-04-29 22:04:17.441232,0,Good,Active
+USER_0811,IoT Device,Metro_Station_Exit,WPA2-Enterprise,Free,N/A,0.0,2025-04-04 22:04:17.441232,0,Average,Active
+USER_0812,Tablet,Innovation_Park_Gate,WPA2-Enterprise,Basic,Monthly,9.99,2026-03-24 22:04:17.441232,0,Awesome,Active
+USER_0813,Smartphone,Central_Park_Bench,Social Login,Family,Monthly,29.99,2026-01-04 22:04:17.441232,1,Average,Active
+USER_0814,Smart TV,Central_Park_Bench,WPA2-Enterprise,Basic,Monthly,9.99,2025-11-09 22:04:17.441232,0,Awesome,Active
+USER_0815,Smart TV,TechHub_Cafe,WPA2-Enterprise,Free,N/A,0.0,2025-10-21 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0816,Laptop,CoWorking_Space_A,WPA2-Enterprise,Premium,Monthly,19.99,2025-09-21 22:04:17.441232,0,Good,Active
+USER_0817,Laptop,Main_Square_WiFi,WPA2-Enterprise,Family,Monthly,29.99,2026-02-28 22:04:17.441232,1,Good,Active
+USER_0818,Smartphone,Food_Court_WiFi,Social Login,Family,Monthly,29.99,2025-04-02 22:04:17.441232,0,Good,Active
+USER_0819,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2025-05-28 22:04:17.441232,0,Awesome,Active
+USER_0820,Smartphone,Main_Square_WiFi,Social Login,Premium,Monthly,19.99,2025-03-10 22:04:17.441232,4,Poor,Active
+USER_0821,Tablet,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2024-09-28 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0822,Smartphone,Food_Court_WiFi,Captive Portal,Free,N/A,0.0,2025-04-13 22:04:17.441232,1,Good,Active
+USER_0823,Smartphone,City_Library_Zone,OTP Verification,Family,Monthly,29.99,2025-10-06 22:04:17.441232,0,Awesome,Active
+USER_0824,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Free,N/A,0.0,2025-03-08 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0825,Laptop,City_Library_Zone,OTP Verification,Free,N/A,0.0,2025-10-20 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0826,Smart TV,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2026-02-05 22:04:17.441232,4,Poor,Active
+USER_0827,Smartphone,Metro_Station_Exit,Captive Portal,Family,Monthly,29.99,2026-03-18 22:04:17.441232,0,Good,Active
+USER_0828,Smartphone,Main_Square_WiFi,Captive Portal,Family,Monthly,29.99,2026-05-17 22:04:17.441232,0,Good,Active
+USER_0829,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Premium,Monthly,19.99,2025-07-25 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0830,Smartphone,TechHub_Cafe,Captive Portal,Family,Monthly,29.99,2025-06-11 22:04:17.441232,1,Average,Active
+USER_0831,Smartphone,Shopping_Mall_Entrance,Social Login,Free,N/A,0.0,2024-07-31 22:04:17.441232,4,Poor,Inactive
+USER_0832,Smartphone,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2025-11-20 22:04:17.441232,0,Good,Active
+USER_0833,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Basic,Yearly,9.99,2025-05-30 22:04:17.441232,0,Good,Inactive
+USER_0834,Smartphone,CoWorking_Space_A,Social Login,Free,N/A,0.0,2025-01-04 22:04:17.441232,0,Awesome,Active
+USER_0835,Smartphone,Gym_Lobby,Captive Portal,Basic,Monthly,9.99,2025-11-13 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0836,Smartphone,Shopping_Mall_Entrance,OTP Verification,Business,Monthly,49.99,2025-02-04 22:04:17.441232,0,Average,Active
+USER_0837,Smart TV,City_Library_Zone,Social Login,Free,N/A,0.0,2025-06-30 22:04:17.441232,5,Poor,Inactive
+USER_0838,Smartphone,CoWorking_Space_A,OTP Verification,Free,N/A,0.0,2025-03-23 22:04:17.441232,1,Average,Active
+USER_0839,Laptop,Food_Court_WiFi,Social Login,Free,N/A,0.0,2025-06-15 22:04:17.441232,0,Average,Inactive
+USER_0840,Laptop,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-04-14 22:04:17.441232,0,Awesome,Active
+USER_0841,Smartphone,Central_Park_Bench,WPA2-Enterprise,Business,Monthly,49.99,2026-03-04 22:04:17.441232,0,Awesome,Active
+USER_0842,Laptop,Metro_Station_Exit,Social Login,Basic,Monthly,9.99,2026-06-20 22:04:17.441232,1,Good,Active
+USER_0843,Smartphone,CoWorking_Space_A,Captive Portal,Basic,Monthly,9.99,2025-04-10 22:04:17.441232,0,Good,Active
+USER_0844,IoT Device,Innovation_Park_Gate,WPA2-Enterprise,Family,Monthly,29.99,2026-01-22 22:04:17.441232,0,Average,Active
+USER_0845,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Free,N/A,0.0,2024-07-12 22:04:17.441232,0,Good,Active
+USER_0846,Smartphone,CoWorking_Space_A,OTP Verification,Basic,Yearly,9.99,2025-12-13 22:04:17.441232,6,Leave to other provider,Inactive
+USER_0847,Smartphone,Innovation_Park_Gate,Captive Portal,Basic,Monthly,9.99,2025-01-13 22:04:17.441232,3,Poor,Inactive
+USER_0848,IoT Device,Main_Square_WiFi,Captive Portal,Premium,Yearly,19.99,2024-09-27 22:04:17.441232,0,Good,Active
+USER_0849,Laptop,Innovation_Park_Gate,Captive Portal,Business,Monthly,49.99,2025-03-06 22:04:17.441232,0,Awesome,Active
+USER_0850,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Family,Monthly,29.99,2025-08-22 22:04:17.441232,4,Poor,Inactive
+USER_0851,Smartphone,Central_Park_Bench,WPA2-Enterprise,Basic,Monthly,9.99,2025-11-14 22:04:17.441232,2,Average,Active
+USER_0852,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Family,Monthly,29.99,2026-01-21 22:04:17.441232,3,Poor,Inactive
+USER_0853,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-03-05 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0854,Smart TV,City_Library_Zone,Social Login,Free,N/A,0.0,2026-06-09 22:04:17.441232,0,Average,Active
+USER_0855,Smartphone,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2025-11-01 22:04:17.441232,1,Average,Active
+USER_0856,Smartphone,Main_Square_WiFi,Social Login,Basic,Monthly,9.99,2026-04-24 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0857,Smartphone,TechHub_Cafe,Social Login,Basic,Monthly,9.99,2026-06-30 22:04:17.441232,1,Good,Active
+USER_0858,Smartphone,City_Library_Zone,WPA2-Enterprise,Premium,Monthly,19.99,2025-11-16 22:04:17.441232,1,Average,Active
+USER_0859,Laptop,Main_Square_WiFi,Captive Portal,Business,Yearly,49.99,2025-10-03 22:04:17.441232,0,Good,Inactive
+USER_0860,Smartphone,CoWorking_Space_A,Captive Portal,Basic,Yearly,9.99,2024-07-19 22:04:17.441232,0,Good,Active
+USER_0861,Tablet,CoWorking_Space_A,Social Login,Basic,Monthly,9.99,2024-10-05 22:04:17.441232,0,Awesome,Active
+USER_0862,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-04-29 22:04:17.441232,3,Poor,Active
+USER_0863,Laptop,City_Library_Zone,Captive Portal,Free,N/A,0.0,2025-02-13 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0864,Smartphone,Central_Park_Bench,Captive Portal,Premium,Monthly,19.99,2025-08-20 22:04:17.441232,0,Good,Active
+USER_0865,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Basic,Monthly,9.99,2026-06-10 22:04:17.441232,0,Good,Active
+USER_0866,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Family,Monthly,29.99,2025-03-08 22:04:17.441232,0,Good,Active
+USER_0867,Smartphone,Gym_Lobby,Captive Portal,Free,N/A,0.0,2025-05-11 22:04:17.441232,0,Awesome,Active
+USER_0868,Smartphone,Metro_Station_Exit,Social Login,Free,N/A,0.0,2026-05-12 22:04:17.441232,0,Average,Inactive
+USER_0869,Smart TV,Innovation_Park_Gate,WPA2-Enterprise,Basic,Monthly,9.99,2026-02-17 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0870,IoT Device,Main_Square_WiFi,Captive Portal,Free,N/A,0.0,2025-07-14 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0871,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-10-29 22:04:17.441232,6,Poor,Inactive
+USER_0872,Smartphone,Main_Square_WiFi,Social Login,Premium,Monthly,19.99,2026-01-19 22:04:17.441232,0,Awesome,Active
+USER_0873,Laptop,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-12-27 22:04:17.441232,1,Good,Active
+USER_0874,Smartphone,Innovation_Park_Gate,Social Login,Premium,Monthly,19.99,2025-06-19 22:04:17.441232,0,Good,Active
+USER_0875,Smartphone,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2025-09-10 22:04:17.441232,3,Poor,Active
+USER_0876,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Free,N/A,0.0,2026-01-16 22:04:17.441232,3,Poor,Inactive
+USER_0877,Laptop,Food_Court_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2025-06-05 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0878,Laptop,CoWorking_Space_A,WPA2-Enterprise,Family,Yearly,29.99,2025-06-27 22:04:17.441232,0,Awesome,Inactive
+USER_0879,Smartphone,CoWorking_Space_A,Captive Portal,Basic,Monthly,9.99,2026-06-21 22:04:17.441232,0,Good,Inactive
+USER_0880,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Family,Yearly,29.99,2025-10-09 22:04:17.441232,0,Awesome,Active
+USER_0881,Smartphone,CoWorking_Space_A,Social Login,Free,N/A,0.0,2025-04-05 22:04:17.441232,1,Average,Active
+USER_0882,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Family,Monthly,29.99,2025-05-11 22:04:17.441232,1,Good,Active
+USER_0883,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2025-03-16 22:04:17.441232,0,Good,Active
+USER_0884,Smartphone,Central_Park_Bench,WPA2-Enterprise,Premium,Monthly,19.99,2025-02-23 22:04:17.441232,0,Good,Active
+USER_0885,Tablet,Innovation_Park_Gate,WPA2-Enterprise,Premium,Monthly,19.99,2024-11-02 22:04:17.441232,0,Awesome,Active
+USER_0886,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Business,Monthly,49.99,2025-01-15 22:04:17.441232,0,Awesome,Active
+USER_0887,Laptop,Gym_Lobby,Captive Portal,Basic,Monthly,9.99,2025-05-21 22:04:17.441232,0,Awesome,Active
+USER_0888,Smartphone,Central_Park_Bench,Captive Portal,Free,N/A,0.0,2024-11-01 22:04:17.441232,3,Poor,Active
+USER_0889,Smartphone,Food_Court_WiFi,Captive Portal,Free,N/A,0.0,2026-01-01 22:04:17.441232,1,Good,Active
+USER_0890,Smartphone,CoWorking_Space_A,Captive Portal,Family,Monthly,29.99,2026-06-08 22:04:17.441232,3,Poor,Inactive
+USER_0891,Laptop,Central_Park_Bench,Captive Portal,Basic,Monthly,9.99,2025-01-07 22:04:17.441232,0,Average,Active
+USER_0892,Smart TV,CoWorking_Space_A,WPA2-Enterprise,Family,Monthly,29.99,2025-01-14 22:04:17.441232,1,Average,Active
+USER_0893,Tablet,Metro_Station_Exit,Captive Portal,Free,N/A,0.0,2025-02-08 22:04:17.441232,4,Poor,Inactive
+USER_0894,Smartphone,Central_Park_Bench,OTP Verification,Basic,Monthly,9.99,2025-11-09 22:04:17.441232,1,Good,Active
+USER_0895,Laptop,CoWorking_Space_A,Captive Portal,Free,N/A,0.0,2025-04-11 22:04:17.441232,1,Average,Active
+USER_0896,Smartphone,Food_Court_WiFi,Captive Portal,Business,Monthly,49.99,2026-02-25 22:04:17.441232,0,Awesome,Active
+USER_0897,Smartphone,TechHub_Cafe,WPA2-Enterprise,Premium,Monthly,19.99,2025-12-21 22:04:17.441232,0,Good,Active
+USER_0898,Smart TV,Main_Square_WiFi,Social Login,Business,Monthly,49.99,2026-03-05 22:04:17.441232,0,Awesome,Active
+USER_0899,Smartphone,Main_Square_WiFi,Social Login,Free,N/A,0.0,2025-04-17 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0900,Smartphone,Food_Court_WiFi,Captive Portal,Premium,Monthly,19.99,2024-10-12 22:04:17.441232,0,Good,Active
+USER_0901,Smartphone,Gym_Lobby,OTP Verification,Premium,Monthly,19.99,2025-01-16 22:04:17.441232,4,Poor,Inactive
+USER_0902,Smartphone,TechHub_Cafe,WPA2-Enterprise,Basic,Yearly,9.99,2025-05-01 22:04:17.441232,1,Average,Active
+USER_0903,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Family,Monthly,29.99,2025-02-19 22:04:17.441232,0,Good,Active
+USER_0904,Laptop,Food_Court_WiFi,Social Login,Business,Yearly,49.99,2025-07-06 22:04:17.441232,4,Poor,Inactive
+USER_0905,Smartphone,Main_Square_WiFi,Social Login,Family,Monthly,29.99,2025-01-01 22:04:17.441232,0,Good,Active
+USER_0906,Smart TV,Main_Square_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2025-05-07 22:04:17.441232,0,Awesome,Active
+USER_0907,Tablet,Main_Square_WiFi,WPA2-Enterprise,Free,N/A,0.0,2024-07-16 22:04:17.441232,0,Awesome,Active
+USER_0908,Smartphone,City_Library_Zone,WPA2-Enterprise,Free,N/A,0.0,2026-06-27 22:04:17.441232,1,Average,Active
+USER_0909,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Business,Monthly,49.99,2025-12-30 22:04:17.441232,0,Awesome,Active
+USER_0910,Smartphone,Innovation_Park_Gate,Social Login,Free,N/A,0.0,2024-11-08 22:04:17.441232,0,Awesome,Active
+USER_0911,Laptop,Metro_Station_Exit,Captive Portal,Premium,Monthly,19.99,2025-04-08 22:04:17.441232,4,Poor,Inactive
+USER_0912,Smartphone,Main_Square_WiFi,WPA2-Enterprise,Premium,Monthly,19.99,2024-08-17 22:04:17.441232,1,Average,Active
+USER_0913,Laptop,CoWorking_Space_A,WPA2-Enterprise,Premium,Yearly,19.99,2024-08-26 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0914,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Business,Monthly,49.99,2026-01-19 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0915,Laptop,City_Library_Zone,WPA2-Enterprise,Basic,Monthly,9.99,2025-04-27 22:04:17.441232,0,Average,Active
+USER_0916,Smartphone,Food_Court_WiFi,Captive Portal,Basic,Monthly,9.99,2026-06-16 22:04:17.441232,0,Good,Active
+USER_0917,Smartphone,Metro_Station_Exit,OTP Verification,Free,N/A,0.0,2024-11-08 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0918,IoT Device,City_Library_Zone,Social Login,Basic,Yearly,9.99,2026-04-16 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0919,Tablet,Metro_Station_Exit,WPA2-Enterprise,Free,N/A,0.0,2025-11-16 22:04:17.441232,0,Awesome,Active
+USER_0920,Smartphone,Food_Court_WiFi,Social Login,Basic,Monthly,9.99,2024-10-15 22:04:17.441232,1,Good,Active
+USER_0921,Smart TV,Innovation_Park_Gate,Social Login,Family,Monthly,29.99,2024-07-14 22:04:17.441232,0,Good,Active
+USER_0922,Smartphone,Metro_Station_Exit,Social Login,Business,Monthly,49.99,2026-02-09 22:04:17.441232,0,Awesome,Active
+USER_0923,Smart TV,City_Library_Zone,Captive Portal,Free,N/A,0.0,2025-04-19 22:04:17.441232,0,Good,Active
+USER_0924,Tablet,City_Library_Zone,WPA2-Enterprise,Basic,Yearly,9.99,2025-10-25 22:04:17.441232,0,Awesome,Active
+USER_0925,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Business,Yearly,49.99,2025-11-04 22:04:17.441232,0,Average,Active
+USER_0926,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2025-09-26 22:04:17.441232,1,Average,Inactive
+USER_0927,Smartphone,Food_Court_WiFi,WPA2-Enterprise,Free,N/A,0.0,2025-06-15 22:04:17.441232,0,Awesome,Active
+USER_0928,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2025-01-06 22:04:17.441232,0,Awesome,Active
+USER_0929,Laptop,Gym_Lobby,Captive Portal,Premium,Monthly,19.99,2024-08-23 22:04:17.441232,0,Good,Active
+USER_0930,Smartphone,Food_Court_WiFi,Social Login,Free,N/A,0.0,2025-03-17 22:04:17.441232,6,Poor,Active
+USER_0931,Smartphone,Metro_Station_Exit,Captive Portal,Business,Yearly,49.99,2025-11-03 22:04:17.441232,1,Good,Active
+USER_0932,Tablet,TechHub_Cafe,WPA2-Enterprise,Basic,Yearly,9.99,2024-10-26 22:04:17.441232,0,Average,Active
+USER_0933,IoT Device,Metro_Station_Exit,OTP Verification,Basic,Monthly,9.99,2024-09-06 22:04:17.441232,0,Good,Active
+USER_0934,Laptop,Shopping_Mall_Entrance,OTP Verification,Free,N/A,0.0,2025-08-16 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0935,Smartphone,Innovation_Park_Gate,Social Login,Basic,Monthly,9.99,2025-11-17 22:04:17.441232,0,Good,Active
+USER_0936,Smartphone,Metro_Station_Exit,OTP Verification,Premium,Monthly,19.99,2024-09-15 22:04:17.441232,0,Good,Inactive
+USER_0937,Smartphone,Metro_Station_Exit,Captive Portal,Family,Yearly,29.99,2026-02-12 22:04:17.441232,0,Good,Active
+USER_0938,Smart TV,Innovation_Park_Gate,OTP Verification,Family,Monthly,29.99,2026-04-07 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0939,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Premium,Yearly,19.99,2026-06-04 22:04:17.441232,1,Average,Active
+USER_0940,Laptop,Main_Square_WiFi,WPA2-Enterprise,Business,Monthly,49.99,2024-08-25 22:04:17.441232,0,Awesome,Active
+USER_0941,Smartphone,TechHub_Cafe,WPA2-Enterprise,Family,Yearly,29.99,2024-12-04 22:04:17.441232,0,Awesome,Inactive
+USER_0942,Laptop,CoWorking_Space_A,WPA2-Enterprise,Family,Monthly,29.99,2024-12-01 22:04:17.441232,0,Awesome,Active
+USER_0943,Laptop,TechHub_Cafe,WPA2-Enterprise,Free,N/A,0.0,2026-01-29 22:04:17.441232,1,Average,Active
+USER_0944,Tablet,Metro_Station_Exit,Captive Portal,Free,N/A,0.0,2025-05-09 22:04:17.441232,6,Poor,Inactive
+USER_0945,Smartphone,Main_Square_WiFi,Social Login,Free,N/A,0.0,2024-09-27 22:04:17.441232,2,Average,Active
+USER_0946,Smartphone,Food_Court_WiFi,Captive Portal,Premium,Monthly,19.99,2025-03-13 22:04:17.441232,1,Good,Inactive
+USER_0947,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Basic,Yearly,9.99,2024-10-31 22:04:17.441232,0,Awesome,Active
+USER_0948,Smart TV,Shopping_Mall_Entrance,Social Login,Basic,Yearly,9.99,2026-01-24 22:04:17.441232,0,Average,Active
+USER_0949,Smart TV,Main_Square_WiFi,Captive Portal,Family,Yearly,29.99,2025-09-01 22:04:17.441232,4,Poor,Inactive
+USER_0950,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Family,Monthly,29.99,2026-03-14 22:04:17.441232,1,Average,Active
+USER_0951,Laptop,Main_Square_WiFi,Captive Portal,Business,Monthly,49.99,2026-03-04 22:04:17.441232,0,Awesome,Active
+USER_0952,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Basic,Monthly,9.99,2026-03-27 22:04:17.441232,1,Good,Active
+USER_0953,Smartphone,Gym_Lobby,WPA2-Enterprise,Premium,Monthly,19.99,2025-02-18 22:04:17.441232,1,Average,Active
+USER_0954,Smart TV,CoWorking_Space_A,OTP Verification,Free,N/A,0.0,2025-12-19 22:04:17.441232,0,Average,Active
+USER_0955,Smartphone,Central_Park_Bench,WPA2-Enterprise,Free,N/A,0.0,2025-07-26 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0956,Smartphone,Main_Square_WiFi,Captive Portal,Free,N/A,0.0,2025-10-06 22:04:17.441232,1,Average,Inactive
+USER_0957,Laptop,City_Library_Zone,Social Login,Basic,Monthly,9.99,2025-09-28 22:04:17.441232,0,Average,Active
+USER_0958,Smartphone,Shopping_Mall_Entrance,Social Login,Basic,Monthly,9.99,2025-05-02 22:04:17.441232,0,Good,Active
+USER_0959,Smartphone,Metro_Station_Exit,WPA2-Enterprise,Family,Monthly,29.99,2026-02-24 22:04:17.441232,0,Awesome,Active
+USER_0960,Laptop,Shopping_Mall_Entrance,WPA2-Enterprise,Free,N/A,0.0,2025-09-14 22:04:17.441232,3,Poor,Active
+USER_0961,Smartphone,TechHub_Cafe,WPA2-Enterprise,Premium,Yearly,19.99,2025-05-10 22:04:17.441232,0,Average,Active
+USER_0962,Laptop,Central_Park_Bench,Captive Portal,Basic,Monthly,9.99,2026-02-04 22:04:17.441232,0,Good,Active
+USER_0963,Smartphone,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2026-03-29 22:04:17.441232,0,Good,Active
+USER_0964,Smartphone,Gym_Lobby,WPA2-Enterprise,Basic,Monthly,9.99,2024-09-01 22:04:17.441232,1,Average,Active
+USER_0965,Smartphone,Central_Park_Bench,OTP Verification,Free,N/A,0.0,2026-03-18 22:04:17.441232,0,Awesome,Active
+USER_0966,Smartphone,Central_Park_Bench,Captive Portal,Premium,Monthly,19.99,2024-10-11 22:04:17.441232,0,Awesome,Active
+USER_0967,Laptop,TechHub_Cafe,WPA2-Enterprise,Basic,Monthly,9.99,2025-01-30 22:04:17.441232,1,Average,Inactive
+USER_0968,Smartphone,Innovation_Park_Gate,Captive Portal,Free,N/A,0.0,2026-04-03 22:04:17.441232,0,Awesome,Active
+USER_0969,Laptop,TechHub_Cafe,Captive Portal,Free,N/A,0.0,2025-02-03 22:04:17.441232,0,Awesome,Active
+USER_0970,Smartphone,Shopping_Mall_Entrance,WPA2-Enterprise,Basic,Monthly,9.99,2025-03-29 22:04:17.441232,7,Leave to other provider,Inactive
+USER_0971,Laptop,Innovation_Park_Gate,WPA2-Enterprise,Business,Yearly,49.99,2026-05-09 22:04:17.441232,8,Leave to other provider,Inactive
+USER_0972,IoT Device,Shopping_Mall_Entrance,Social Login,Basic,Yearly,9.99,2024-09-23 22:04:17.441232,3,Poor,Active
+USER_0973,Laptop,Gym_Lobby,Captive Portal,Premium,Yearly,19.99,2024-12-09 22:04:17.441232,0,Average,Inactive
+USER_0974,Smartphone,Metro_Station_Exit,Captive Portal,Premium,Yearly,19.99,2025-03-04 22:04:17.441232,2,Average,Active
+USER_0975,Smartphone,Food_Court_WiFi,Captive Portal,Business,Monthly,49.99,2024-12-26 22:04:17.441232,0,Good,Active
+USER_0976,Smartphone,Innovation_Park_Gate,WPA2-Enterprise,Family,Monthly,29.99,2026-01-18 22:04:17.441232,1,Good,Active
+USER_0977,Laptop,Gym_Lobby,WPA2-Enterprise,Premium,Monthly,19.99,2024-09-16 22:04:17.441232,1,Good,Active
+USER_0978,Smartphone,City_Library_Zone,Captive Portal,Premium,Monthly,19.99,2024-12-09 22:04:17.441232,0,Awesome,Active
+USER_0979,Smartphone,Gym_Lobby,WPA2-Enterprise,Family,Monthly,29.99,2024-07-04 22:04:17.441232,4,Poor,Inactive
+USER_0980,Laptop,TechHub_Cafe,WPA2-Enterprise,Basic,Monthly,9.99,2025-08-24 22:04:17.441232,6,Poor,Active
+USER_0981,Smartphone,TechHub_Cafe,Social Login,Basic,Monthly,9.99,2025-10-06 22:04:17.441232,0,Good,Inactive
+USER_0982,Tablet,Food_Court_WiFi,OTP Verification,Free,N/A,0.0,2026-06-07 22:04:17.441232,4,Poor,Inactive
+USER_0983,Smartphone,Gym_Lobby,Social Login,Family,Monthly,29.99,2026-03-02 22:04:17.441232,0,Good,Active
+USER_0984,Smartphone,CoWorking_Space_A,Social Login,Family,Monthly,29.99,2025-10-26 22:04:17.441232,0,Average,Active
+USER_0985,Laptop,Metro_Station_Exit,WPA2-Enterprise,Free,N/A,0.0,2025-04-26 22:04:17.441232,6,Poor,Inactive
+USER_0986,Smartphone,TechHub_Cafe,OTP Verification,Premium,Monthly,19.99,2024-08-04 22:04:17.441232,0,Average,Active
+USER_0987,Laptop,Food_Court_WiFi,WPA2-Enterprise,Basic,Monthly,9.99,2025-02-24 22:04:17.441232,0,Good,Active
+USER_0988,Smartphone,Metro_Station_Exit,OTP Verification,Free,N/A,0.0,2025-04-23 22:04:17.441232,0,Good,Active
+USER_0989,Smartphone,Gym_Lobby,OTP Verification,Business,Monthly,49.99,2026-06-25 22:04:17.441232,0,Awesome,Active
+USER_0990,Tablet,Gym_Lobby,Social Login,Free,N/A,0.0,2025-04-17 22:04:17.441232,5,Poor,Inactive
+USER_0991,Tablet,Central_Park_Bench,OTP Verification,Free,N/A,0.0,2026-06-21 22:04:17.441232,0,Good,Active
+USER_0992,Laptop,Food_Court_WiFi,Captive Portal,Premium,Monthly,19.99,2025-10-09 22:04:17.441232,4,Poor,Inactive
+USER_0993,Smartphone,TechHub_Cafe,WPA2-Enterprise,Premium,Yearly,19.99,2024-09-12 22:04:17.441232,1,Good,Active
+USER_0994,Laptop,CoWorking_Space_A,Captive Portal,Free,N/A,0.0,2026-06-05 22:04:17.441232,0,Awesome,Active
+USER_0995,Smartphone,Gym_Lobby,Captive Portal,Premium,Monthly,19.99,2025-02-26 22:04:17.441232,0,Awesome,Active
+USER_0996,Smartphone,CoWorking_Space_A,WPA2-Enterprise,Basic,Monthly,9.99,2025-03-29 22:04:17.441232,0,Awesome,Active
+USER_0997,Smart TV,Gym_Lobby,Captive Portal,Free,N/A,0.0,2026-04-03 22:04:17.441232,5,Leave to other provider,Inactive
+USER_0998,Smartphone,TechHub_Cafe,OTP Verification,Free,N/A,0.0,2026-02-25 22:04:17.441232,1,Good,Active
+USER_0999,IoT Device,Metro_Station_Exit,WPA2-Enterprise,Premium,Yearly,19.99,2026-05-10 22:04:17.441232,0,Awesome,Active
+USER_1000,Smartphone,Main_Square_WiFi,Social Login,Free,N/A,0.0,2025-01-20 22:04:17.441232,4,Poor,Inactive
